@@ -2,21 +2,21 @@
 title: Lukas Retschmeier
 draft: false
 role: PhD Student in Computer Science
-avatar: images/avatar.png
-bio: Aenean vel bibendum quam. Aliquam at mollis quam. Proin efficitur.
+avatar: /images/avatar.png
+bio: Hei! Welcome to my homepage!
 organization:
-  name: Example Organization
-  url: https://example.com/
+  name: \@DIKU København Universitet
+  url: https://di.ku.dk/
 social:
   - icon: envelope
     iconPack: fas
-    url: mailto:example@example.com
-  - icon: twitter
-    iconPack: fab
-    url: https://example.com/
+    url: mailto:lure@di.ku.dk
+  #- icon: twitter
+  #  iconPack: fab
+  #  url: https://example.com/
   - icon: github
     iconPack: fab
-    url: https://example.com/
+    url: https://github.com/lukas681
 
 weight: 1
 widget:

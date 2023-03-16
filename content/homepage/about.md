@@ -1,8 +1,8 @@
 ---
-title: Example Author
+title: Lukas Retschmeier
 draft: false
-role: Example Role
-avatar: images/icon.png
+role: PhD Student in Computer Science
+avatar: images/avatar.png
 bio: Aenean vel bibendum quam. Aliquam at mollis quam. Proin efficitur.
 organization:
   name: Example Organization

@@ -5,7 +5,7 @@ role: PhD Student in Computer Science
 avatar: /images/avatar.jpg
 bio: Hei! Welcome to my homepage!
 organization:
-  name: \@DIKU København Universitet
+  name: \@DIKU Københavns Universitet
   url: https://di.ku.dk/
 social:
   - icon: envelope
@@ -43,10 +43,8 @@ widget:
     attachment: 
 ---
 
-## Self Introduction
+This is page is becoming my new webpage. In the meanwhile, you can find my CV here:
 
-Hei there! This is going to be my new webpage. 
-In the meanwhile, you can find my CV here:
 <div style="text-align:center">
   <a href="/docs/main.pdf">Curriculum Vitae</p>
 </div>

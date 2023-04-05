@@ -2,36 +2,30 @@
 title: Experience
 draft: false
 experiences:
-  - title: Example Role 1
+  - title: PhD Student
     organization:
-      name: Example Organization 1
-      url: https://example.org
-    dates: "2019 - Present"
-    location: Country
+      name: Providentia
+      url: https://www.rasmuspagh.net/providentia/
+    dates: "... Starting June 2023 ..."
+    location: Denmark
     writeup: >
       Donec scelerisque egestas augue at tempor. Fusce faucibus magna in.
 
-      - Suspendisse lacinia mauris a laoreet vehicula.
-
-      - Aenean tincidunt enim vitae ante blandit tempor.
-
-      - Nam tincidunt diam quis lorem rutrum ullamcorper.
-
-  - title: Example Role 2
+  - title: IT Consultant PLM
     organization:
       name: Example Organization 2
-      url: https://example.org
-    dates: "2017 - 2019"
-    location: Country
+      url: https://atos.net
+    dates: "2015 - 2023"
+    location: Germany
     writeup: >
-      **Aliquam** at **rutrum** ante. In sed quam faucibus.
+      XXXX
 
 weight: 3
 widget:
   handler: experience
 
   # Options: sm, md, lg and xl. Default is md.
-  width: lg
+  width: md
 
   sidebar:
     # Options: left and right. Leave blank to hide.

@@ -2,7 +2,7 @@
 title: Lukas Retschmeier
 draft: false
 role: PhD Student in Computer Science
-avatar: /images/avatar.png
+avatar: /images/avatar.jpg
 bio: Hei! Welcome to my homepage!
 organization:
   name: \@DIKU København Universitet

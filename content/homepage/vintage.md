@@ -5,7 +5,7 @@ slogan: We are all in the gutter, but some of us are looking at the stars.
 imgLeft: images/hero-left.jpg
 imgRight: images/hero-right.jpg
 
-weight: 4
+weight: -1
 widget:
   handler: vintage
 

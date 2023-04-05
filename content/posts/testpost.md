@@ -12,3 +12,6 @@ featuredVideo:
 featuredImage:
 draft: yes
 ---
+# Testpost
+
+Hi, This is a first posblogpost to see how it works.

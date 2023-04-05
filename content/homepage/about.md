@@ -48,5 +48,5 @@ widget:
 Hei there! This is going to be my new webpage. 
 In the meanwhile, you can find my CV here:
 <div style="text-align:center">
-  <a href="/docs/main.pdf">Write anything you like here!</p>
+  <a href="/docs/main.pdf">Curriculum Vitae</p>
 </div>

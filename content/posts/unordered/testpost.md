@@ -1,9 +1,9 @@
 ---
-title: Testpost
+title: Welcome!
 description:
 toc: true
 authors: [lure]
-tags: []
+tags: [intro]
 categories: []
 series: []
 date: 2023-04-05T14:44:38+02:00
@@ -12,6 +12,6 @@ featuredVideo:
 featuredImage:
 draft: no
 ---
-# Testpost
+# Hello World
 
-Hi, This is a first posblogpost to see how it works.
+Hi there! I might use this platform to share some interesting things I stumble upon... :)

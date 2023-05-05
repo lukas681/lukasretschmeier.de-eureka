@@ -3,7 +3,7 @@ title: Lukas Retschmeier
 draft: false
 role: PhD Student in Computer Science
 avatar: /images/avatar.jpg
-bio: Hei! Welcome to my homepage!
+bio: Hei! Welcome to my homepage! I am going to start a PhD at <a href="https://www.rasmuspagh.net/providentia/">Providentia</a> in Copenhagen
 organization:
   name: \@DIKU Københavns Universitet
   url: https://di.ku.dk/

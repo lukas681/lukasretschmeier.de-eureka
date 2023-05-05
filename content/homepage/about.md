@@ -43,7 +43,10 @@ widget:
     attachment: 
 ---
 
+From 2015 to 2018, I have been working as a _PLM consultant_ for _Atos_ in my vibrant home city Munich. 
+During this time, I had the opportunity to contribute my expertise to a variety of international projects in the manufacturing and automotive industries where I led the design and implementation of innovative solutions utilizing the PLM suite *Siemens Teamcenter*.
+I am proficient with a broad range of technologies and tools, including **Java** with the *Spring Framework*, **AngularJS**, **Siemens Teamcenter**, and **Docker**.  
+I am an advocate of <a href="https://agilemanifesto.org/">agile</a> methodologies like <a href="https://www.scrum.org/resources/what-scrum-module">Scrum</a>,
 
-
-From 2015 to 2018, I have been working as a **PLM consultant** for *Atos* in Munich. While working on various projects in the manufacturing and automotive branch, I was leading the solution design and implementation of solutions around the PLM suite *Siemens Teamcenter*.
-My skill set ranges from *Teamcenter* configuration and customization to the development of standalone tools using a wide variety of different technologies, but I mainly worked with **Java** (*Spring Framework*) and **AngularJS**.
+Furthermore, I supported various tender offerings from a technical side and gained a lot of experience in supervising interns.
+For a detailed overview of my projects, have a look at my <a href="docs/main.pdf">CV</a>

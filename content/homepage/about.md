@@ -47,6 +47,3 @@ widget:
 
 From 2015 to 2018, I have been working as a **PLM consultant** for *Atos* in Munich. While working on various projects in the manufacturing and automotive branch, I was leading the solution design and implementation of solutions around the PLM suite *Siemens Teamcenter*.
 My skill set ranges from *Teamcenter* configuration and customization to the development of standalone tools using a wide variety of different technologies, but I mainly worked with **Java** (*Spring Framework*) and **AngularJS**.
-
-You can find a detailed project list in my latest CV <a href="/docs/main.pdf">here.</p>
-</div>

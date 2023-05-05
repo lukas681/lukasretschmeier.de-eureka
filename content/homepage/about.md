@@ -3,7 +3,7 @@ title: Lukas Retschmeier
 draft: false
 role: PhD Student in Computer Science
 avatar: /images/avatar.jpg
-bio: Hei! Welcome to my homepage! I am going to start a PhD at <a href="https://www.rasmuspagh.net/providentia/">Providentia</a> in Copenhagen
+bio: Hei! Well hello there, and welcome to my little corner of the internet! 
 organization:
   name: \@DIKU Københavns Universitet
   url: https://di.ku.dk/
@@ -43,6 +43,8 @@ widget:
     attachment: 
 ---
 
+I am going to start a *PhD* at <a href="">Providentia</a> at the *University of Copenhagen* under the supervision of <a href="https://rasmuspagh.net/">*Rasmus Pagh*</a> in the active research area of <a href="https://en.wikipedia.org/wiki/Differential_privacy">Differential Privacy</a>
+
 From 2015 to 2018, I have been working as a _PLM consultant_ for _Atos_ in my vibrant home city Munich. 
 During this time, I had the opportunity to contribute my expertise to a variety of international projects in the manufacturing and automotive industries where I led the design and implementation of innovative solutions utilizing the PLM suite *Siemens Teamcenter*.
 I am proficient with a broad range of technologies and tools, including **Java** with the *Spring Framework*, **AngularJS**, **Siemens Teamcenter**, and **Docker**.  
@@ -50,3 +52,10 @@ I am an advocate of <a href="https://agilemanifesto.org/">agile</a> methodologie
 
 Furthermore, I supported various tender offerings from a technical side and gained a lot of experience in supervising interns.
 For a detailed overview of my projects, have a look at my <a href="docs/main.pdf">CV</a>
+
+### Research:
+
+* **Master Thesis**
+* **Bachelor Thesis**
+* Student Project: <a href="docs/papers/T2000.pdf">*An Evaluation of Docker as a Replacement for Classic Virtualization Concepts in the PLM area*</a>
+* Student Project <a href="/docs/papers/soundplugin-setlx.pdf">Development of a Sound Plugin for SetlX</a>

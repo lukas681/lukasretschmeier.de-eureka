@@ -9,7 +9,7 @@ theme: wangchucheng.com/hugo-eureka
 
 paginate: 3
 copyright: >
-  &copy; 2021 <a href="https://www.lukasretschnmeier.de/">LUKAS Retschmeier</a>
+  &copy; 2023 <a href="https://www.lukasretschnmeier.de/">Lukas Retschmeier</a>
 enableEmoji: true
 enableGitInfo: true
 summaryLength: 75

@@ -1,5 +1,5 @@
 ---
-title: Welcome!
+title: Hello World
 description:
 toc: true
 authors: [lure]
@@ -12,6 +12,5 @@ featuredVideo:
 featuredImage:
 draft: no
 ---
-# Hello World
 
 Hi there! I might use this platform to share some interesting things I stumble upon... :)

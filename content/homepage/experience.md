@@ -1,5 +1,5 @@
 ---
-title: Experience
+title: Professional Experience
 draft: false
 experiences:
   - title: PhD Student
@@ -9,18 +9,18 @@ experiences:
     dates: "... Starting June 2023 ..."
     location: Denmark
     writeup: >
-      Donec scelerisque egestas augue at tempor. Fusce faucibus magna in.
+      Full-Time PhD studies in the area of Differential Privacy.
 
   - title: IT Consultant PLM
     organization:
-      name: Example Organization 2
+      name: Atos Information Technologies
       url: https://atos.net
-    dates: "2015 - 2023"
-    location: Germany
+    dates: "2018 - 2023"
+    location: <a href"">Munich, Germany</a>
     writeup: >
-      XXXX
+      Consultancy and active development for clients in the automotive and manufacturing industries in the Teamcenter world.
 
-weight: 3
+weight: 2
 widget:
   handler: experience
 

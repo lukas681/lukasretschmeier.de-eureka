@@ -50,9 +50,7 @@ I am going to start a *PhD* at <a href="https://www.rasmuspagh.net/providentia/"
 
 Prior, I have been working as a _PLM consultant_ for _Atos_ in my vibrant home city Munich. 
 During this time, I had the opportunity to contribute my expertise to a variety of international projects in the manufacturing and automotive industries where I led the design and implementation of innovative solutions utilizing the PLM suite *Siemens Teamcenter*.
-I am proficient with a broad range of technologies and tools, including **Java** with the *Spring Framework*, **AngularJS**, **Siemens Teamcenter**, and **Docker**.  
-I am a strong advocate of <a href="https://agilemanifesto.org/">agile</a> methodologies like <a href="https://www.scrum.org/resources/what-scrum-module">Scrum</a>.
-
+I am proficient with a broad range of technologies and tools, including **Java** with the *Spring Framework*, **AngularJS**, **Siemens Teamcenter**, and **Docker**. I am a strong advocate of <a href="https://agilemanifesto.org/">agile</a> methodologies like <a href="https://www.scrum.org/resources/what-scrum-module">Scrum</a>.
 Furthermore, I supported various tender offerings from a technical side and gained a lot of experience in supervising interns.
 For a detailed overview of my projects, have a look at my <a href="docs/main.pdf">CV</a>.
 

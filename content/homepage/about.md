@@ -8,6 +8,9 @@ organization:
   name: \@DIKU Københavns Universitet
   url: https://di.ku.dk/
 social:
+  - icon: linkedin
+    iconPack: fab
+    url: https://www.linkedin.com/in/lukas-retschmeier-024a64117/
   - icon: envelope
     iconPack: fas
     url: mailto:lure@di.ku.dk
@@ -62,3 +65,7 @@ Semitotal Domination on Graph Classes</a>
 * Master Project (2023). lukas681/Measure-Detector-UI: PoC Zenodo Final. <a href="doi:10.5281/zenodo.7898944">doi:10.5281/zenodo.7898944</a>
 * Bachelor Project (2017) <a href="/docs/papers/soundplugin-setlx.pdf">Development of a Sound Plugin for SetlX</a>
 * **Bachelor Project** (2016): <a href="docs/papers/T2000.pdf">*An Evaluation of Docker as a Replacement for Classic Virtualization Concepts in the PLM area</a>
+
+### Teaching
+
+* **Discrete Structures**, Winter 21, *Technical University Munich*: Teaching Assistant

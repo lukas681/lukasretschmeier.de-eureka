@@ -3,7 +3,7 @@ title: Lukas Retschmeier
 draft: false
 role: PhD Student in Computer Science
 avatar: /images/avatar.jpg
-bio: Hei! Hello there, and welcome to my little private corner of the internet! 
+bio: Hei! Welcome to my little private corner of the internet! 
 organization:
   name: \@DIKU Københavns Universitet
   url: https://di.ku.dk/
@@ -62,7 +62,7 @@ In my spare time, you can find me either playing (beach) volleyball or sitting i
 * **Master Thesis** (2013): <a href="docs/papers/mt.pdf">On the Parameterized Complexity of
 Semitotal Domination on Graph Classes</a>
 * **Bachelor Thesis** (2018): <a href="docs/papers/bachelorthesis-retschmeier.pdf">Development and Evaluation of an Information Retrieval System for the support of the operation of PLM systems</a>
-* Master Project (2023): PoC of a Web-Interface for the Measure Detector <a href="doi:10.5281/zenodo.7898944">doi:10.5281/zenodo.7898944</a>
+* Master Project (2023): PoC of a Web Interface for the Measure Detector <a href="https://zenodo.org/record/7898944">doi:10.5281/zenodo.7898944</a>
 * Bachelor Project (2017): <a href="/docs/papers/soundplugin-setlx.pdf">Development of a Sound Plugin for SetlX</a>
 * **Bachelor Project** (2016): <a href="docs/papers/T2000.pdf">An Evaluation of Docker as a Replacement for Classic Virtualization Concepts in the PLM area</a>
 

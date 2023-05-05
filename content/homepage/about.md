@@ -55,7 +55,9 @@ For a detailed overview of my projects, have a look at my <a href="docs/main.pdf
 
 ### Research:
 
-* **Master Thesis**
-* **Bachelor Thesis**
-* Student Project: <a href="docs/papers/T2000.pdf">*An Evaluation of Docker as a Replacement for Classic Virtualization Concepts in the PLM area*</a>
-* Student Project <a href="/docs/papers/soundplugin-setlx.pdf">Development of a Sound Plugin for SetlX</a>
+* **Master Thesis** (2013): <a href="docs/papers/mt.pdf">On the Parameterized Complexity of
+Semitotal Domination on Graph Classes</a>
+* **Bachelor Thesis**(2018): <a href="docs/papers/bachelorthesis-retschmeier.pdf">Development and Evaluation of an *Information Retrieval System* for the support of the operation of PLM systems
+* Master Project (2023). lukas681/Measure-Detector-UI: PoC Zenodo Final. <a href="doi:10.5281/zenodo.7898944">doi:10.5281/zenodo.7898944</a>
+* Bachelor Project (2017) <a href="/docs/papers/soundplugin-setlx.pdf">Development of a Sound Plugin for SetlX</a>
+* **Bachelor Project** (2016): <a href="docs/papers/T2000.pdf">*An Evaluation of Docker as a Replacement for Classic Virtualization Concepts in the PLM area*</a>

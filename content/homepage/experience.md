@@ -7,7 +7,7 @@ experiences:
       name: Providentia
       url: https://www.rasmuspagh.net/providentia/
     dates: "... Starting June 2023 ..."
-    location: Denmark
+    location: Copenhagen, Denmark
     writeup: >
       Full-Time PhD studies in the area of Differential Privacy.
 
@@ -16,7 +16,7 @@ experiences:
       name: Atos Information Technologies
       url: https://atos.net
     dates: "2018 - 2023"
-    location: <a href"">Munich, Germany</a>
+    location: Munich, Germany
     writeup: >
       Consultancy and active development for clients in the automotive and manufacturing industries in the Teamcenter world.
 

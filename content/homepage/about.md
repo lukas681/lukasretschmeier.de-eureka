@@ -68,4 +68,4 @@ Semitotal Domination on Graph Classes</a>
 ### Teaching
 
 * **Discrete Structures**, Winter 21, *Technical University Munich*: Teaching Assistant
-* **Optes**, 2016 - 2018, *Cooperative State University Mannheim* (DHBW), Research Assistant
+* <a href="https://stack-assessment.org/CaseStudies/2019/optes/">**Optes**</a>, 2016 - 2018, *Cooperative State University Mannheim* (DHBW), Research Assistant

@@ -55,15 +55,16 @@ Furthermore, I supported various tender offerings from a technical side and gain
 For a detailed overview of my projects, have a look at my <a href="docs/main.pdf">CV</a>.
 
 In my spare time, you can find me either playing (beach) volleyball or sitting in front of my piano playing sonatas.
-### Research:
+### Research
 
-* **Master Thesis** (2013): <a href="docs/papers/mt.pdf">On the Parameterized Complexity of
+* **Master Thesis** (2023): <a href="docs/papers/mt.pdf">On the Parameterized Complexity of
 Semitotal Domination on Graph Classes</a>
-* **Bachelor Thesis** (2018): <a href="docs/papers/bachelorthesis-retschmeier.pdf">Development and Evaluation of an Information Retrieval System for the support of the operation of PLM systems</a>
 * Master Project (2023): PoC of a Web Interface for the Measure Detector <a href="https://zenodo.org/record/7898944">doi:10.5281/zenodo.7898944</a>
+* **Bachelor Thesis** (2018): <a href="docs/papers/bachelorthesis-retschmeier.pdf">Development and Evaluation of an Information Retrieval System for the support of the operation of PLM systems</a>
 * Bachelor Project (2017): <a href="/docs/papers/soundplugin-setlx.pdf">Development of a Sound Plugin for SetlX</a>
-* **Bachelor Project** (2016): <a href="docs/papers/T2000.pdf">An Evaluation of Docker as a Replacement for Classic Virtualization Concepts in the PLM area</a>
+* Bachelor Project (2016): <a href="docs/papers/T2000.pdf">An Evaluation of Docker as a Replacement for Classic Virtualization Concepts in the PLM area</a>
 
 ### Teaching
 
 * **Discrete Structures**, Winter 21, *Technical University Munich*: Teaching Assistant
+* **Optes**, 2016 - 2018, *Cooperative State University Mannheim* (DHBW), Research Assistant

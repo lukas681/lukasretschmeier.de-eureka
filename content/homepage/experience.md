@@ -6,10 +6,10 @@ experiences:
     organization:
       name: Providentia
       url: https://www.rasmuspagh.net/providentia/
-    dates: "... Starting June 2023 ..."
+    dates: "2013 - "
     location: Copenhagen, Denmark
     writeup: >
-      Full-Time PhD studies in the area of Differential Privacy.
+      Full-Time PhD in Differential Privacy.
 
   - title: IT Consultant PLM
     organization:

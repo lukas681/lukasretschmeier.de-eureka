@@ -46,7 +46,8 @@ widget:
     attachment: 
 ---
 
-I am going to start a *PhD* at <a href="https://www.rasmuspagh.net/providentia/">Providentia</a> at <a href="https://barc.ku.dk/">BARC</a> at the *University of Copenhagen* under the supervision of <a href="https://rasmuspagh.net/">*Rasmus Pagh*</a> in the active research area of <a href="https://en.wikipedia.org/wiki/Differential_privacy">Differential Privacy</a>.
+I have recently started a *PhD* at <a href="https://www.rasmuspagh.net/providentia/">Providentia</a> at <a href="https://barc.ku.dk/">BARC</a> at the *University of Copenhagen* under the supervision of <a href="https://rasmuspagh.net/">*Rasmus Pagh*</a>.
+My research area is that of <a href="https://en.wikipedia.org/wiki/Differential_privacy">Differential Privacy</a>.
 
 Prior, I have been working as a _PLM consultant_ for _Atos_ in my vibrant home city Munich. 
 During this time, I had the opportunity to contribute my expertise to a variety of international projects in the manufacturing and automotive industries where I led the design and implementation of innovative solutions utilizing the PLM suite *Siemens Teamcenter*.

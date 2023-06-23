@@ -58,8 +58,7 @@ I am a strong advocate of <a href="https://agilemanifesto.org/">agile</a> method
 In my spare time, you can find me either playing (beach) volleyball or sitting in front of my piano playing sonatas.
 ### Research
 
-* **Master Thesis** (2023): <a href="docs/papers/mt.pdf">On the Parameterized Complexity of
-Semitotal Domination on Graph Classes</a>
+* **Master Thesis** (2023): On the Parameterized Complexity ofSemitotal Domination on Graph Classes <a href="docs/papers/mt.pdf">Thesis</a>, <a href="docs/papers/presentation-mt.pdf">Presentation</a>
 * Master Project (2023): PoC of a Web Interface for the Measure Detector <a href="https://zenodo.org/record/7898944">doi:10.5281/zenodo.7898944</a>
 * **Bachelor Thesis** (2018): <a href="docs/papers/bachelorthesis-retschmeier.pdf">Development and Evaluation of an Information Retrieval System for the support of the operation of PLM systems</a>
 * Bachelor Project (2017): <a href="/docs/papers/soundplugin-setlx.pdf">Development of a Sound Plugin for SetlX</a>

@@ -5,3 +5,7 @@
 # Locations
 
 * Documents into static/ all times of docs can be referenced by plainhtml
+
+
+
+# Das ist ein Test von meinem neuen Rechner.

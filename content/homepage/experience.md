@@ -6,7 +6,7 @@ experiences:
     organization:
       name: Providentia
       url: https://www.rasmuspagh.net/providentia/
-    dates: "2013 - "
+    dates: "2023 - "
     location: Copenhagen, Denmark
     writeup: >
       Full-Time PhD in Differential Privacy.

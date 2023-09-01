@@ -25,5 +25,7 @@ widget:
     position:
     # Options: fixed, local, scroll.
     attachment: 
+
 ---
-aæslkdfjaæsldkfjlæaskdjf
+{{< youtube  test >}}
+This page is going to be my music page with some nice embedded videos!

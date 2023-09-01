@@ -16,5 +16,3 @@ social:
     iconPack: fab
     url: https://github.com/lukas681
 ---
-
-## Vestibulum vel arcu

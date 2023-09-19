@@ -65,6 +65,8 @@ In my spare time, you can find me either playing (beach) volleyball or sitting i
 * Bachelor Project (2017): <a href="/docs/papers/soundplugin-setlx.pdf">Development of a Sound Plugin for SetlX</a>
 * Bachelor Project (2016): <a href="docs/papers/T2000.pdf">An Evaluation of Docker as a Replacement for Classic Virtualization Concepts in the PLM area</a>
 
+### Slides
+* **Seminar Slides (2022)**: <a href="/docs/papers/Seminar__Advanced_Complexity.pdf">Parameterized Complexity</a>
 ### Teaching
 
 * **Discrete Structures**, Winter 21, *Technical University Munich*: Teaching Assistant

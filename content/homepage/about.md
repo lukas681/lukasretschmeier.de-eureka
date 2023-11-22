@@ -56,7 +56,7 @@ Furthermore, I supported various tender offerings from a technical side and gain
 For a detailed overview of my projects, have a look at my <a href="docs/main.pdf">CV</a>.
 I am a strong advocate of <a href="https://agilemanifesto.org/">agile</a> methodologies like <a href="https://www.scrum.org/resources/what-scrum-module">Scrum</a>.
 
-In my spare time, you can find me either playing (beach) volleyball or sitting in front of my piano playing sonatas.
+In my spare time, you can find me either playing (beach) volleyball or sitting in front of my piano playing <a href="https://www.youtube.com/watch?v=Wqx7eFpJ1co">sonatas</a>.
 ### Research
 
 * **Master Thesis** (2023): On the Parameterized Complexity of Semitotal Domination on Graph Classes <a href="docs/papers/mt.pdf">Thesis</a>, <a href="docs/papers/presentation-mt.pdf">Presentation</a>

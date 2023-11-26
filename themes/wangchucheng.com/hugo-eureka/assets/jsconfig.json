@@ -1,0 +1,13 @@
+{
+ "compilerOptions": {
+  "baseUrl": ".",
+  "paths": {
+   "*": [
+    "../../../../Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/wangchucheng.com/hugo-marble/search@v0.1.0/_vendor/github.com/krisk/Fuse/dist/fuse.esm.min.js/*",
+    "../themes/wangchucheng.com/hugo-eureka/_vendor/github.com/FortAwesome/Font-Awesome/js-packages/@fortawesome/fontawesome-svg-core/*",
+    "../themes/wangchucheng.com/hugo-eureka/_vendor/github.com/FortAwesome/Font-Awesome/js-packages/@fortawesome/free-brands-svg-icons/*",
+    "../themes/wangchucheng.com/hugo-eureka/_vendor/github.com/FortAwesome/Font-Awesome/js-packages/@fortawesome/free-solid-svg-icons/*"
+   ]
+  }
+ }
+}

@@ -15,7 +15,7 @@ enableGitInfo: true
 summaryLength: 75
 
 defaultContentLanguage: en
-hasCJKLanguage: false # Set `true` for Chinese/Japanese/Korean.
+hasCJKLanguage: false # Sbet `true` for Chinese/Japanese/Korean.
 defaultContentLanguageInSubdir: false
 
 # Uncomment for google analytics
@@ -41,4 +41,4 @@ taxonomies:
   author: authors
 
 build:
-  useResourceCacheWhen: fallback
+  useResourceCacheWhen: always  # fallback, must be switched for local development as it might not work with fallback

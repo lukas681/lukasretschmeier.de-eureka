@@ -45,6 +45,3 @@ widget:
     # Options: fixed, local, scroll.
     attachment: 
 ---
-
-I have recently started a *PhD* at <a href="https://www.rasmuspagh.net/providentia/">Providentia</a> at <a href="https://barc.ku.dk/">BARC</a> at the *University of Copenhagen* under the supervision of <a href="https://rasmuspagh.net/">*Rasmus Pagh*</a>.
-My research area is that of <a href="https://en.wikipedia.org/wiki/Differential_privacy">Differential Privacy</a>.

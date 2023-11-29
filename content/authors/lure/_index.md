@@ -1,5 +1,5 @@
 ---
-title: Lukas Retschmeier
+title: Lukas Retschmeier (Blogowner)
 role: PhD Student
 bio: I am a PhD Student at Providentia Copenhagen
 organization:

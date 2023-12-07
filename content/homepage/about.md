@@ -77,6 +77,6 @@ In my spare time, you can find me either playing (beach) volleyball or sitting i
 I am an passionate piano player and I really enjoy classical music. 
 Here is a more recent example of me playing the first movement of the Waldstein Sonate.
 
-{{< youtube id="https://youtu.be/Wqx7eFpJ1co?si=f15NGFYFBQt9mbWS" >}}
+{{< youtube id="https://www.youtube.com/watch?v=Wqx7eFpJ1co" >}}
 
 If you have an idea for a cooperation of any kind or need someone for accompaniment, just drop me a message. :) 

@@ -74,10 +74,9 @@ In my spare time, you can find me either playing (beach) volleyball or sitting i
 
 ### Freetime Activities
 
-I am an passionate piano player and like all kinds of classical music. Here is a more recent example of me playing Beethoven.
+I am an passionate piano player and I really enjoy classical music. 
+Here is a more recent example of me playing the first movement of the Waldstein Sonate.
 
-![https://youtu.be/Wqx7eFpJ1co?si=QJzLAc0aTLM6IQwR][https://youtu.be/Wqx7eFpJ1co?si=QJzLAc0aTLM6IQwR]
+![https://youtu.be/Wqx7eFpJ1co?si=QJzLAc0aTLM6IQwR]
 
-I am always open for cooperations, so just drop me a message :)
-
-
+If you have any ideas for a cooperation or need someone for accompanying, just drop me a message. :)

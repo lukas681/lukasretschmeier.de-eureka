@@ -71,3 +71,13 @@ In my spare time, you can find me either playing (beach) volleyball or sitting i
 
 * **Discrete Structures**, Winter 21, *Technical University Munich*: Teaching Assistant
 * <a href="https://stack-assessment.org/CaseStudies/2019/optes/">**Optes**</a>, 2016 - 2018, *Cooperative State University Mannheim* (DHBW), Research Assistant
+
+### Freetime Activities
+
+I am an passionate piano player and like all kinds of classical music. Here is a more recent example of me playing Beethoven.
+
+![https://youtu.be/Wqx7eFpJ1co?si=QJzLAc0aTLM6IQwR][https://youtu.be/Wqx7eFpJ1co?si=QJzLAc0aTLM6IQwR]
+
+I am always open for cooperations, so just drop me a message :)
+
+

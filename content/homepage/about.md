@@ -79,4 +79,4 @@ Here is a more recent example of me playing the first movement of the Waldstein 
 
 {{< youtube https://youtu.be/Wqx7eFpJ1co?si=QJzLAc0aTLM6IQwR >}}
 
-If you have any ideas for a cooperation or need someone for accompanying, just drop me a message. :)
+If you have any ideas for a cooperation or need someone for accompanying, just drop me a message. :) . 

@@ -49,7 +49,7 @@ widget:
 I have recently started a *PhD* at <a href="https://www.rasmuspagh.net/providentia/">Providentia</a> at <a href="https://barc.ku.dk/">BARC</a> at the *University of Copenhagen* under the supervision of <a href="https://rasmuspagh.net/">*Rasmus Pagh*</a>.
 My research area is that of <a href="https://en.wikipedia.org/wiki/Differential_privacy">Differential Privacy</a>.
 
-Prior, I have been working as a _PLM consultant_ for _Atos_ in my vibrant home city Munich. 
+Prior, I worked as a _PLM consultant_ for _Atos_ in my vibrant home city Munich. 
 During this time, I had the opportunity to contribute my expertise to a variety of international projects in the manufacturing and automotive industries where I led the design and implementation of innovative solutions utilizing the PLM suite *Siemens Teamcenter*.
 I am proficient with a broad range of technologies and tools, including **Java** with the *Spring Framework*, **AngularJS**, **Siemens Teamcenter**, and **Docker**. 
 Furthermore, I supported various tender offerings from a technical side and gained a lot of experience in supervising interns.
@@ -67,16 +67,18 @@ In my spare time, you can find me either playing (beach) volleyball or sitting i
 
 ### Slides
 * **Seminar Slides (2022)**: <a href="/docs/papers/Seminar__Advanced_Complexity.pdf">Parameterized Complexity</a>
+
 ### Teaching
 
+* **Algorithms and Data Structures**, Winter 24, *University of Copenhagen*: Teaching Assistant / Coordination
 * **Discrete Structures**, Winter 21, *Technical University Munich*: Teaching Assistant
 * <a href="https://stack-assessment.org/CaseStudies/2019/optes/">**Optes**</a>, 2016 - 2018, *Cooperative State University Mannheim* (DHBW), Research Assistant
 
 ### Freetime Activities
 
-I am an passionate piano player and I really enjoy classical music. 
+I am a passionate piano player and I enjoy classical music. 
 Here is a more recent example of me playing the first movement of the Waldstein Sonate.
 
 {{< youtube id="Wqx7eFpJ1co" >}}
 
-If you have an idea for a cooperation of any kind or need someone for accompaniment, just drop me a message. :) 
+If you have an idea for cooperation of any kind or need someone for accompaniment, just drop me a message. :) 

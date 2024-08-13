@@ -24,7 +24,7 @@ I mostly try to use native applications because of their nice synchronziation ac
 
 **Staying Up-to-Date**
 * **Zotero** incl. WebDAV file synch to private **Nextcloud** and _Zotero Cloud_. Also very nice for reading papers.
-* **NetNewsWire**: Nice RSS Feed Reader with iCloud synch.
+* **NetNewsWire**: Nice RSS Feed Reader with iCloud synch. Really helps to stay up-to-date in all different areas of interest. RSS feeds even exist for daily arxive submissions in chosen areas.
 
 **Visualizations**
 * **Apple Keynote** (because of native Latex support) for _presentations_ and _posters_.

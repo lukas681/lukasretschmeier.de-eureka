@@ -1,6 +1,6 @@
 ---
-title: Tools I Use
-description: My Toolchain
+title: Tools I Currently Use
+description: All the tools that make the daily work easier
 toc: true
 authors: [lure]
 tags: [misc]
@@ -30,7 +30,7 @@ I mostly try to use native applications because of their nice synchronziation ac
 * **Apple Keynote** (because of native Latex support) for _presentations_ and _posters_.
 * **Inkscape** for vector graphic modificiations.
 * **Excalidraw** (math preview) for technical sketches preferred over tikz.
-* Occasionally **Tikz**
+* Occasionally **TikZ**
 * python + matplotlib / seaborn
 * _Furthermore_: **Geogebra** for graphs, **mathcha** for even more math.
 

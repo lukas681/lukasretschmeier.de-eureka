@@ -1,7 +1,8 @@
 ---
-title: Lukas Retschmeier (Blogowner)
+title: Lukas Retschmeier
 role: PhD Student
-bio: I am a PhD Student at Providentia Copenhagen
+bio: PhD Student in Privacy
+image: /iimages/avatar.png
 organization:
   name: \@DIKU København Universitet
   url: https://di.ku.dk/

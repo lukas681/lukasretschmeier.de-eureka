@@ -35,7 +35,7 @@ I mostly try to use native applications because of their nice synchronziation ac
 * _Furthermore_: **Geogebra** for graphs, **mathcha** for even more math.
 
 **Software Development**
-* Enjoping the full **JetBrain** Suite (_IntelliJ_ (Java), _clion_ (C++), ... )
+* Enjoying the full **JetBrain** Suite (_IntelliJ_ (Java), _clion_ (C++), ... )
 * Code Editing via **VS Code** / vim bindings / Plugins for whatever is currently needed
 
 **Misc**

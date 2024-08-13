@@ -6,8 +6,8 @@ authors: [lure]
 tags: [misc]
 categories: [misc]
 series: []
-date: 2024-08-013T14:44:38+02:00
-lastmod: 2024-08-013T14:44:38+02:00
+date: 2024-08-13T14:44:38+02:00
+lastmod: 2024-08-13T14:44:38+02:00
 featuredVideo:
 featuredImage:
 draft: no

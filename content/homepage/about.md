@@ -64,7 +64,7 @@ In my spare time, you can find me playing (beach) volleyball or sitting in front
 
 ### Research
 
-* Pagh, R. and Retschmeier, L. (2024) <a href="https://doi.org/10.48550/arXiv.2408.06997">‘Faster Private Minimum Spanning Trees’</a>. TPDP 2024, <a href="papers/posters/tpdp24-mst.pdf">Poster</a>
+* Pagh, R. and Retschmeier, L. (2024) <a href="https://doi.org/10.48550/arXiv.2408.06997">‘Faster Private Minimum Spanning Trees’</a>. TPDP 2024, <a href="docs/papers/posters/tpdp24-mst.pdf">Poster</a>
 
 #### Undergraduate Projects
 * **Master Thesis** (2023): On the Parameterized Complexity of Semitotal Domination on Graph Classes <a href="docs/papers/mt.pdf">Thesis</a>, <a href="docs/papers/presentation-mt.pdf">Presentation</a>

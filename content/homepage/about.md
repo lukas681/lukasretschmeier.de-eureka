@@ -59,8 +59,14 @@ I am a strong advocate of <a href="https://agilemanifesto.org/">agile</a> method
 
 In my spare time, you can find me playing (beach) volleyball or sitting in front of my piano playing <a href="https://www.youtube.com/watch?v=Wqx7eFpJ1co">sonatas</a>.
 
+### News 
+* Rasmus and I uploaded a preprint on our work on <a href="https://doi.org/10.48550/arXiv.2408.06997">differentially private minimum Spanning Trees!</a>
+
 ### Research
 
+* Pagh, R. and Retschmeier, L. (2024) <a href="https://doi.org/10.48550/arXiv.2408.06997">‘Faster Private Minimum Spanning Trees’</a>. TPDP 2024, <a href="papers/posters/tpdp24-mst.pdf">Poster</a>
+
+#### Undergraduate Projects
 * **Master Thesis** (2023): On the Parameterized Complexity of Semitotal Domination on Graph Classes <a href="docs/papers/mt.pdf">Thesis</a>, <a href="docs/papers/presentation-mt.pdf">Presentation</a>
 * Master Project (2023): PoC of a Web Interface for the Measure Detector <a href="https://zenodo.org/record/7898944">doi:10.5281/zenodo.7898944</a>
 * **Bachelor Thesis** (2018): <a href="docs/papers/bachelorthesis-retschmeier.pdf">Development and Evaluation of an Information Retrieval System for the support of the operation of PLM systems</a>

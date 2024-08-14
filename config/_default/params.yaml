@@ -1,6 +1,6 @@
 mainSections:
   - posts
-description: Welcome to my webpage
+# description: Welcome to my webpage
 
 repoEditURL:
 
@@ -16,7 +16,7 @@ style:
 
 # E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
 siteType: Person
-icon: images/avatar.png
+# icon: images/avatar.png
 publisherName: LUKAS Retschmeier
 publisherLogo:
 

@@ -2,7 +2,6 @@
 title: Lukas Retschmeier
 role: PhD Student
 bio: PhD Student in Privacy
-image: /images/avatar.png
 organization:
   name: \@DIKU København Universitet
   url: https://di.ku.dk/

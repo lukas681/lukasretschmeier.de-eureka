@@ -22,8 +22,9 @@ I mostly try to use native applications because of their nice synchronziation ac
 * **GoodNotes**: For more complex projects.
 * **Obsidian** has the markdown, latex and code highlighting features I am missing in _Apple Notes_.
 
-**Staying Up-to-Date**
-* **Zotero** incl. WebDAV file synch to private **Nextcloud** and _Zotero Cloud_. Also very nice for reading papers.
+**News and Literture Research**
+* **Zotero** incl. WebDAV file synch to private **Nextcloud** and _Zotero Cloud_ and **Chrome Connector**. Also very nice for reading papers.
+* **Google Scholar Plugin** for Chrome because of nice reference previews.
 * **NetNewsWire**: Nice RSS Feed Reader with iCloud synch. Really helps to stay up-to-date in all different areas of interest. RSS feeds even exist for daily arxive submissions in chosen areas.
 
 **Visualizations**
@@ -35,8 +36,9 @@ I mostly try to use native applications because of their nice synchronziation ac
 * _Furthermore_: **Geogebra** for graphs, **mathcha** for even more math.
 
 **Software Development**
-* Enjoying the full **JetBrain** Suite (_IntelliJ_ (Java), _clion_ (C++), ... )
-* Code Editing via **VS Code** / vim bindings / Plugins for whatever is currently needed
+* Enjoying the full **JetBrain** Suite (_IntelliJ_ (Java), _clion_ (C++), ... ).
+* Code Editing via **VS Code** / vim bindings / Plugins for whatever is currently needed.
+* **Proxyman** and **Postman**.
 
 **Misc**
 * Task Management \& Canban Board: **Apple Reminders**
@@ -44,3 +46,7 @@ I mostly try to use native applications because of their nice synchronziation ac
 * websites: Mostly using **Hugo** and hosted with **Netlify** + custom **Github** commit triggers.
 * Password Management: **KeePassX**, but being slowly replaced by **Apple Passwords**
 * **Grammarly** for spell-and grammarchecking.
+* **iTerm** + **zsh** as default terminal.
+* **Raycast** as a replacement of the default _Spotlight Search_.
+* **PDFSam** for PDF operations.
+* **brew** for MacOS package management.

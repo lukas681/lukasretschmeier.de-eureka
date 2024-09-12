@@ -50,3 +50,4 @@ I mostly try to use native applications because of their nice synchronziation ac
 * **Raycast** as a replacement of the default _Spotlight Search_.
 * **PDFSam** for PDF operations.
 * **brew** for MacOS package management.
+* **DocuSeal** for using digital signatures on docuemnts

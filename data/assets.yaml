@@ -23,7 +23,7 @@ katex:
     url: https://cdn.jsdelivr.net/npm/katex@%s/dist/contrib/auto-render.min.js
     sri: sha384-+XBljXPPiv+OzfbB3cVmLHf4hdUFHlWNZN5spNQ7rmHTXpd7WvJum6fIACpNNfIR
 
-# Mermaid
+# mermaid
 mermaid:
   version: 8.14.0
   js:
@@ -36,3 +36,7 @@ valine:
   js:
     url: https://cdn.jsdelivr.net/npm/valine@%s/dist/Valine.min.js
     sri: sha384-e0+DNUCJo75aOAzHQbFWYBCM9/S4f0BhRJXvEgbE3mMS85RM20MSSGStHuNdY2QK
+
+bibtex:
+  js:
+    url: https://cdn.jsdelivr.net/gh/pcooksey/bibtex-js@1.0.0/src/bibtex_js.min.js

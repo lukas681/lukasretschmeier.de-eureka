@@ -65,9 +65,10 @@ In my spare time, you can find me playing (beach) volleyball or sitting in front
 
 ### Research
 
-* Christian Lebeda, Lukas Retschmeier, (2024) <a href="https://arxiv.org/abs/2412.10357">‘The Correlated Gaussian Sparse Histogram Mechanism’</a> (Preprint).
-* Rasmus Pagh, Lukas Retschmeier, Hao Wu, Hanwen Zhang (2024) <a href="https://arxiv.org/abs/2412.10130">‘Optimal Bounds for Private Minimum Spanning Trees via Input Perturbation’</a> (Preprint).
-* Rasmus Pagh and Lukas Retschmeier (2024) <a href="https://doi.org/10.48550/arXiv.2408.06997">‘Faster Private Minimum Spanning Trees’</a>. TPDP 2024, <a href="docs/papers/posters/tpdp24-mst.pdf">Poster</a>
+<bibtex src="publications.bib"></bibtex>
+<input type="text" class="bibtex_search 
+placeholder:italic placeholder:text-slate-400 block bg-white w-full border border-slate-300 rounded-md py-2 pl-9 pr-3 " id="searchbar" placeholder="  Search publications" type="text">
+<div id="bibtex_display"></div>
 
 ### Other Resources 
 

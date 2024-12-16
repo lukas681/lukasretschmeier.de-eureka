@@ -59,7 +59,6 @@
 
 {{- $eurekaJS := resources.Get "js/eureka.js" | resources.ExecuteAsTemplate "js/eureka.js" . | minify | fingerprint "sha384" }}
 <script defer src="{{ $eurekaJS.Permalink }}"></script>
-
 {{ $googleFonts := "" }}
 {{ range $index, $value := partial "utils/get-style-fonts" (dict "context" . "param" "googleFonts") }}
 {{ with $value }}
@@ -140,6 +139,8 @@
 </script>
 {{- end }}
 
+<script defer src="{{ printf $assets.bibtex.js.url}}" ></script>
+
 {{/*  Mermaid  */}}
 {{- if eq .Site.Params.diagram.handler "mermaid" }}
 <script defer src="{{ printf $assets.mermaid.js.url $assets.mermaid.version }}" {{ with $assets.mermaid.js.sri }}
@@ -165,7 +166,6 @@
   gtag('config', '{{ .Site.GoogleAnalytics }}');
 </script>
 {{- end }}
-
 {{/*  Custom Head  */}}
 {{ partial "hugo-marble/utils/noindex" . }}
 {{ partial "custom-head" . }}

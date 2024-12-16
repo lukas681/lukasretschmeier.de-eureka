@@ -17,12 +17,12 @@
     </header>
 
     <main class="grow pt-16">
-      <div class="bibtex_template">
+      <!--<div class="bibtex_template">
         <div class="if author" style="font-weight: bold;"> <span class="if year"> <span class="year"></span>, </span> <span
             class="author"></span> <span class="if url" style="margin-left55px"> <a class="url"
               style="color:black; font-size:10px">(arXiv)</a> </span> <span class="if poster" style="margin-left: 10px"> <a
               class="poster" style="color:black; font-size:10px">(poster)</a> </span> </div>
-        <div style="margin-left: 10px; margin-bottom:5px;"> <span class="title"></span> </div>
+        <div style="margin-left: 10px; margin-bottom:5px;"> <span class="title"></span> </div> -->
       </div> {{- if or .IsHome (and (eq .Type "authors") (eq .Kind "term")) }} {{- block "main" . }}{{- end }}
       {{- else }}
       <div class="pl-scrollbar">

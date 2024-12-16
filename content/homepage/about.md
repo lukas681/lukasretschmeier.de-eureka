@@ -66,8 +66,8 @@ In my spare time, you can find me playing (beach) volleyball or sitting in front
 ### Research
 
 <bibtex src="publications.bib"></bibtex>
-<input type="text" class="bibtex_search 
-placeholder:italic placeholder:text-slate-400 block bg-white w-full border border-slate-300 rounded-md py-2 pl-9 pr-3 " id="searchbar" placeholder="  Search publications" type="text">
+<!--<input type="text" class="bibtex_search 
+placeholder:italic placeholder:text-slate-400 block bg-white w-full border border-slate-300 rounded-md py-2 pl-9 pr-3 " id="searchbar" placeholder="  Search publications" type="text">-->
 <div id="bibtex_display"></div>
 
 ### Teaching

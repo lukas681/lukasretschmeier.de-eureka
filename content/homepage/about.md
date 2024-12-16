@@ -57,11 +57,11 @@ Furthermore, I supported various tender offerings from a technical side and gain
 
 In my spare time, you can find me playing (beach) volleyball or sitting in front of my piano playing <a href="https://www.youtube.com/watch?v=Wqx7eFpJ1co">sonatas</a>.
 
-### News 
+### News
 
-* **[16th Dec 2024] New preprint on improving the <a href="https://arxiv.org/abs/2412.10357">Gaussian Sparse Histogram Mechanism using correlated noise</a> together with Christian!**
-* **[16th Dec 2024] New preprint! Strengthening our previous results on <a href="https://arxiv.org/abs/2412.10130">private MSTs</a> in a joint work with Rasmus, Hao and Hanwen!**
-* [18th Aug 2024] Rasmus and me uploaded a preprint on our work on <a href="https://doi.org/10.48550/arXiv.2408.06997">differentially private minimum Spanning Trees!</a>
+* **[16th Dec 2024]** New preprint on improving the <a href="https://arxiv.org/abs/2412.10357">Gaussian Sparse Histogram Mechanism</a> together with Christian!**
+* **[16th Dec 2024]** New preprint! Strengthening our previous results on <a href="https://arxiv.org/abs/2412.10130">private MSTs</a> in a joint work with Rasmus, Hao and Hanwen!
+* **[18th Aug 2024]** Rasmus and me uploaded a preprint on our work on <a href="https://doi.org/10.48550/arXiv.2408.06997">differentially private minimum Spanning Trees!</a>
 
 ### Research
 
@@ -70,18 +70,15 @@ In my spare time, you can find me playing (beach) volleyball or sitting in front
 placeholder:italic placeholder:text-slate-400 block bg-white w-full border border-slate-300 rounded-md py-2 pl-9 pr-3 " id="searchbar" placeholder="  Search publications" type="text">
 <div id="bibtex_display"></div>
 
-### Other Resources 
-
-* **Seminar Slides (2022)**: <a href="/docs/papers/Seminar__Advanced_Complexity.pdf">Parameterized Complexity</a>
-
 ### Teaching
 
 * **Algorithms and Data Structures**, Winter 24, *University of Copenhagen*: Teaching Assistant / Coordination
 * **Discrete Structures**, Winter 21, *Technical University Munich*: Teaching Assistant
 * <a href="https://stack-assessment.org/CaseStudies/2019/optes/">**Optes**</a>, 2016 - 2018, *Cooperative State University Mannheim* (DHBW), Research Assistant
 
-### Undergraduate Projects
+### Misc
 
+* **Seminar Slides (2022)**: <a href="/docs/papers/Seminar__Advanced_Complexity.pdf">Parameterized Complexity</a>
 * **Master Thesis** (2023): On the Parameterized Complexity of Semitotal Domination on Graph Classes <a href="docs/papers/mt.pdf">Thesis</a>, <a href="docs/papers/presentation-mt.pdf">Presentation</a>
 * Master Project (2023): PoC of a Web Interface for the Measure Detector <a href="https://zenodo.org/record/7898944">doi:10.5281/zenodo.7898944</a>
 * **Bachelor Thesis** (2018): <a href="docs/papers/bachelorthesis-retschmeier.pdf">Development and Evaluation of an Information Retrieval System for the support of the operation of PLM systems</a>

@@ -60,12 +60,12 @@ In my spare time, you can find me playing (beach) volleyball or sitting in front
 ### News 
 
 * **[16th Dec 2024] New preprint on improving the <a href="https://arxiv.org/abs/2412.10357">Gaussian Sparse Histogram Mechanism using correlated noise</a> together with Christian!**
-* [16th Dec 2024] New preprint! Strengthening our previous results on <a href="https://arxiv.org/abs/2412.10130">private MSTs</a> in a joint work with Rasmus, Hao and Hanwen!
+* **[16th Dec 2024] New preprint! Strengthening our previous results on <a href="https://arxiv.org/abs/2412.10130">private MSTs</a> in a joint work with Rasmus, Hao and Hanwen!**
 * [18th Aug 2024] Rasmus and me uploaded a preprint on our work on <a href="https://doi.org/10.48550/arXiv.2408.06997">differentially private minimum Spanning Trees!</a>
 
 ### Research
 
-* Christian Lebeda, Lukas Retschmeier, Hao Wu, Hanwen Zhang (2024) <a href="https://arxiv.org/abs/2412.10357">‘The Correlated Gaussian Sparse Histogram Mechanism’</a> (Preprint).
+* Christian Lebeda, Lukas Retschmeier, (2024) <a href="https://arxiv.org/abs/2412.10357">‘The Correlated Gaussian Sparse Histogram Mechanism’</a> (Preprint).
 * Rasmus Pagh, Lukas Retschmeier, Hao Wu, Hanwen Zhang (2024) <a href="https://arxiv.org/abs/2412.10130">‘Optimal Bounds for Private Minimum Spanning Trees via Input Perturbation’</a> (Preprint).
 * Rasmus Pagh and Lukas Retschmeier (2024) <a href="https://doi.org/10.48550/arXiv.2408.06997">‘Faster Private Minimum Spanning Trees’</a>. TPDP 2024, <a href="docs/papers/posters/tpdp24-mst.pdf">Poster</a>
 

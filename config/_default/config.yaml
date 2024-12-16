@@ -41,5 +41,5 @@ taxonomies:
   author: authors
 
 build:
-  useResourceCacheWhen: always  # fallback, must be switched for local development as it might not work with fallback
-  #useResourceCacheWhen: fallback # fallback, must be switched for local development as it might not work with fallback
+  # useResourceCacheWhen: always  # fallback, must be switched for local development as it might not work with fallback
+  useResourceCacheWhen: fallback # fallback, must be switched for local development as it might not work with fallback

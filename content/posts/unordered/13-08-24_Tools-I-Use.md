@@ -12,10 +12,13 @@ featuredVideo:
 featuredImage:
 draft: no
 ---
+
 # Tools I Currently Use
 
-These are my tools I have in daily (academic) usage.
-I mostly try to use native applications because of their nice synchronziation across all other devices.
+I am quite open-minded in trying out new digital tools. 
+The following list collects those I heavily use, and I really can recommend.
+
+Nowadays, I mostly try to use native iOS / macOS applications because of the cross-device synchronization, although one might not get same functionality than in the alternatives.
 
 **Note Taking**
 I mostly use **Apple Notes** for digital notetaking.

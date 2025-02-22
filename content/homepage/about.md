@@ -59,8 +59,8 @@ In my spare time, you can find me playing (beach) volleyball or sitting in front
 
 ### News
 
-* **[16th Dec 2024]** New preprint on improving the <a href="https://arxiv.org/abs/2412.10357">Gaussian Sparse Histogram Mechanism</a> together with Christian!**
-* **[16th Dec 2024]** New preprint! Strengthening our previous results on <a href="https://arxiv.org/abs/2412.10130">private MSTs</a> in a joint work with Rasmus, Hao and Hanwen!
+* **[14th Jan 2025]** Our work on strengthening our previous results on <a href="https://arxiv.org/abs/2412.10130">private Minimum Spanning Trees</a> in a joint work with Rasmus, Hao and Hanwen got accepted to **PODS 2025**!
+* **[16th Dec 2024]** New preprint on improving the <a href="https://arxiv.org/abs/2412.10357">Gaussian Sparse Histogram Mechanism</a> together with Christian!
 * **[18th Aug 2024]** Rasmus and me uploaded a preprint on our work on <a href="https://doi.org/10.48550/arXiv.2408.06997">differentially private minimum Spanning Trees!</a>
 
 ### Research

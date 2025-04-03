@@ -8,15 +8,15 @@ organization:
   name: \@DIKU Københavns Universitet
   url: https://di.ku.dk/
 social:
+  - icon: file-pdf
+    iconPack:  fas
+    url: docs/main.pdf
   - icon: linkedin
     iconPack: fab
     url: https://www.linkedin.com/in/lukas-retschmeier-024a64117/
   - icon: envelope
     iconPack: fas
     url: mailto:lure@di.ku.dk
-  #- icon: twitter
-  #  iconPack: fab
-  #  url: https://example.com/
   - icon: github
     iconPack: fab
     url: https://github.com/lukas681
@@ -59,27 +59,51 @@ In my spare time, you can find me playing (beach) volleyball or sitting in front
 
 ### News
 
+* **[2nd April 2025]** The joined work with Christian on the **Correlated Gaussian Sparse Histogram Mechanism** was accepted to **FORC 2025**!
 * **[14th Jan 2025]** Our work on strengthening our previous results on <a href="https://arxiv.org/abs/2412.10130">private Minimum Spanning Trees</a> in a joint work with Rasmus, Hao and Hanwen got accepted to **PODS 2025**!
 * **[16th Dec 2024]** New preprint on improving the <a href="https://arxiv.org/abs/2412.10357">Gaussian Sparse Histogram Mechanism</a> together with Christian!
-* **[18th Aug 2024]** Rasmus and me uploaded a preprint on our work on <a href="https://doi.org/10.48550/arXiv.2408.06997">differentially private minimum Spanning Trees!</a>
 
 ### Research
 
-<bibtex src="publications.bib"></bibtex>
-<input type="text" class="bibtex_search placeholder:italic placeholder:text-slate-400 block w-full border border-slate-300 rounded-md py-2 pl-9" id="searchbar" placeholder="  Search publications">
-<div id="bibtex_display"></div>
+<div>
+   <div class="" style="font-weight:800"><span class="year">[5] The Correlated Gaussian Sparse Histogram Mechanism</div>
+  <span style="margin-left:10px" class="author">Christian Lebeda, Lukas Retschmeier</span>
+  <div style="margin-left:10px;margin-top:0px;font-style:italic">
+    <span class="title"> Foundations of Responsible Computing 2025 (FORC)</span>
+    <span class="" style="margin-left:5px"><a class="url" style="font-size:10px" href="https://arxiv.org/abs/2412.103357">(arXiv)</a></span>
+  </div>
+</div>
 
-### Teaching
+<div>
+   <div class="" style="font-weight:800"><span class="year">[4] Optimal Bounds for Private Minimum Spanning Trees via Input Perturbation</div>
+  <span style="margin-left:10px" class="author">Rasmus Pagh, Lukas Retschmeier, Hao Wu, Hanwen Zhang </span>
+  <div style="margin-left:10px;margin-top:0px;font-style:italic">
+    <span class="title">The Principles of Database System 2025 (PODS)</span>
+    <span class="" style="margin-left:5px"><a class="url" style="font-size:10px" href="https://arxiv.org/abs/2412.10130">(arXiv)</a></span>
+  </div>
+</div>
 
-* **Algorithms and Data Structures**, Winter 24, *University of Copenhagen*: Teaching Assistant / Coordination
-* **Discrete Structures**, Winter 21, *Technical University Munich*: Teaching Assistant
-* <a href="https://stack-assessment.org/CaseStudies/2019/optes/">**Optes**</a>, 2016 - 2018, *Cooperative State University Mannheim* (DHBW), Research Assistant
+<div>
+   <div class="" style="font-weight:800"><span class="year">[3] New Bounds for Private Graph Problems Using Input Perturbation</div>
+  <span style="margin-left:10px" class="author">Anders Aamand, Rasmus Pagh, Lukas Retschmeier</span>
+  <div style="margin-left:10px;margin-top:0px;font-style:italic">
+    <span class="title">under submission, 2025</span>
+  </div>
+</div>
 
-### Misc
+<div>
+   <div class="" style="font-weight:800"><span class="year">[2] Private Multiple Release</div>
+  <span style="margin-left:10px" class="author">Joel Daniel Andersson, Boel Nelson, Rasmus Pagh, Lukas Retschmeier</span>
+  <div style="margin-left:10px;margin-top:0px;font-style:italic">
+    <span class="title">under submission, 2025</span>
+  </div>
+</div>
 
-* **Seminar Slides (2022)**: <a href="/docs/papers/Seminar__Advanced_Complexity.pdf">Parameterized Complexity</a>
-* **Master Thesis** (2023): On the Parameterized Complexity of Semitotal Domination on Graph Classes <a href="docs/papers/mt.pdf">Thesis</a>, <a href="docs/papers/presentation-mt.pdf">Presentation</a>
-* Master Project (2023): PoC of a Web Interface for the Measure Detector <a href="https://zenodo.org/record/7898944">doi:10.5281/zenodo.7898944</a>
-* **Bachelor Thesis** (2018): <a href="docs/papers/bachelorthesis-retschmeier.pdf">Development and Evaluation of an Information Retrieval System for the support of the operation of PLM systems</a>
-* Bachelor Projects: <a href="/docs/papers/soundplugin-setlx.pdf">Development of a Sound Plugin for SetlX</a> (2017), <a href="docs/papers/T2000.pdf">An Evaluation of Docker as a Replacement for Classic Virtualization Concepts in the PLM area</a> (2016)
-
+<div>
+   <div class="" style="font-weight:800"><span class="year">[1] Faster Private Minimium Spanning Trees</div>
+  <span style="margin-left:10px" class="author">Rasmus Pagh, Lukas Retschmeier</span>
+  <div style="margin-left:10px;margin-top:0px;font-style:italic">
+    <span class="title">Superseded by [4], 2024</span>
+    <span class="" style="margin-left:5px"><a class="url" style="font-size:10px" href="https://arxiv.org/abs/2408.06997">(arXiv)</a></span>
+  </div>
+</div>

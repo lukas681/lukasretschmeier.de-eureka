@@ -59,8 +59,10 @@ In my spare time, you can find me playing (beach) volleyball or sitting in front
 
 ### News
 
+* **[30 Mai 2025]** Our joint work with Rasmus, Boel and Joel about **Private Multiple Releases** was accepted to **ICML 2025**!
+* **[30 Mai 2025]** Three papers got accepted to TPDP 2025! See you in California!
 * **[2nd April 2025]** The joined work with Christian on the **Correlated Gaussian Sparse Histogram Mechanism** was accepted to **FORC 2025**!
-* **[14th Jan 2025]** Our work on strengthening our previous results on <a href="https://arxiv.org/abs/2412.10130">private Minimum Spanning Trees</a> in a joint work with Rasmus, Hao and Hanwen got accepted to **PODS 2025**!
+* **[14th Jan 2025]** Our work that strengthens our own previous results on <a href="https://arxiv.org/abs/2412.10130">private Minimum Spanning Trees</a> in a joint work with Rasmus, Hao and Hanwen got accepted to **PODS 2025**!
 * **[16th Dec 2024]** New preprint on improving the <a href="https://arxiv.org/abs/2412.10357">Gaussian Sparse Histogram Mechanism</a> together with Christian!
 
 ### Research
@@ -69,7 +71,7 @@ In my spare time, you can find me playing (beach) volleyball or sitting in front
    <div class="" style="font-weight:800"><span class="year">[5] The Correlated Gaussian Sparse Histogram Mechanism</div>
   <span style="margin-left:10px" class="author">Christian Lebeda, Lukas Retschmeier</span>
   <div style="margin-left:10px;margin-top:0px;font-style:italic">
-    <span class="title"> Foundations of Responsible Computing 2025 (FORC)</span>
+    <span class="title"> Foundations of Responsible Computing (FORC), 2025</span>
     <span class="" style="margin-left:5px"><a class="url" style="font-size:10px" href="https://arxiv.org/abs/2412.103357">(arXiv)</a></span>
   </div>
 </div>
@@ -78,7 +80,7 @@ In my spare time, you can find me playing (beach) volleyball or sitting in front
    <div class="" style="font-weight:800"><span class="year">[4] Optimal Bounds for Private Minimum Spanning Trees via Input Perturbation</div>
   <span style="margin-left:10px" class="author">Rasmus Pagh, Lukas Retschmeier, Hao Wu, Hanwen Zhang </span>
   <div style="margin-left:10px;margin-top:0px;font-style:italic">
-    <span class="title">The Principles of Database System 2025 (PODS)</span>
+    <span class="title">The Principles of Database System (PODS), 2025</span>
     <span class="" style="margin-left:5px"><a class="url" style="font-size:10px" href="https://arxiv.org/abs/2412.10130">(arXiv)</a></span>
   </div>
 </div>
@@ -87,7 +89,7 @@ In my spare time, you can find me playing (beach) volleyball or sitting in front
    <div class="" style="font-weight:800"><span class="year">[3] New Bounds for Private Graph Problems Using Input Perturbation</div>
   <span style="margin-left:10px" class="author">Anders Aamand, Rasmus Pagh, Lukas Retschmeier</span>
   <div style="margin-left:10px;margin-top:0px;font-style:italic">
-    <span class="title">under submission, 2025</span>
+    <span class="title">TPDP 2025, under preperation</span>
   </div>
 </div>
 
@@ -95,7 +97,7 @@ In my spare time, you can find me playing (beach) volleyball or sitting in front
    <div class="" style="font-weight:800"><span class="year">[2] Private Multiple Release</div>
   <span style="margin-left:10px" class="author">Joel Daniel Andersson, Boel Nelson, Rasmus Pagh, Lukas Retschmeier</span>
   <div style="margin-left:10px;margin-top:0px;font-style:italic">
-    <span class="title">under submission, 2025</span>
+    <span class="title">International Conference in Machine Learning (ICML), 2025</span>
   </div>
 </div>
 
@@ -103,7 +105,7 @@ In my spare time, you can find me playing (beach) volleyball or sitting in front
    <div class="" style="font-weight:800"><span class="year">[1] Faster Private Minimium Spanning Trees</div>
   <span style="margin-left:10px" class="author">Rasmus Pagh, Lukas Retschmeier</span>
   <div style="margin-left:10px;margin-top:0px;font-style:italic">
-    <span class="title">Superseded by [4], 2024</span>
+    <span class="title">Presented at TPDP 2024, Superseded by [4], 2024</span>
     <span class="" style="margin-left:5px"><a class="url" style="font-size:10px" href="https://arxiv.org/abs/2408.06997">(arXiv)</a></span>
   </div>
 </div>

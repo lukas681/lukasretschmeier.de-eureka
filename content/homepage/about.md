@@ -73,7 +73,7 @@ In my spare time, you can find me playing (beach) volleyball or sitting in front
   <span style="margin-left:10px" class="author">Christian Lebeda, Lukas Retschmeier</span>
   <div style="margin-left:10px;margin-top:0px;font-style:italic">
     <span class="title"> Foundations of Responsible Computing (FORC), 2025</span>
-    <span class="" style="margin-left:5px"><a class="url" style="font-size:10px" href="https://arxiv.org/abs/2412.103357">(arXiv)</a></span>
+    <span class="" style="margin-left:5px"><a class="url" style="font-size:10px" href="https://arxiv.org/abs/2412.10357">(arXiv)</a></span>
   </div>
 </div>
 

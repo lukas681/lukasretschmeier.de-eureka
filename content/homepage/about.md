@@ -50,7 +50,7 @@ I am a second-year *PhD* student at <a href="https://www.rasmuspagh.net/providen
 My research area is that of <a href="https://dl.acm.org/doi/10.1007/11681878_14">Differential Privacy</a> currently working on private graph algorithms with applications to private synthetic data generation.
 
 Before that, I worked as a _PLM consultant_ for _Atos_ in my vibrant home city, Munich.
-I am proficient with various technologies and tools, including **Java** with the *Spring Framework*, **AngularJS**, **Siemens Teamcenter**, and **Docker**. 
+I am proficient with various technologies and tools, including **Java** with the *Spring Framework*, **AngularJS**, **Siemens Teamcenter**, and **Docker**.
 Furthermore, I supported various tender offerings from a technical side and gained a lot of experience in supervising interns.
 **For a detailed overview of my projects, have a look at my <a href="docs/main.pdf">CV</a>**.
 <!--I am a strong advocate of <a href="https://agilemanifesto.org/">agile</a> methodologies like <a href="https://www.scrum.org/resources/what-scrum-module">Scrum</a>.-->
@@ -59,7 +59,7 @@ In my spare time, you can find me playing (beach) volleyball or sitting in front
 
 ### News
 
-* **[15 Mai 2025]** I will be giving a talk at <a href="https://itu.dk/~palt/arcoatitu25.html">ARCO</a>. Find the slides here: 
+* **[15 Mai 2025]** I will be giving a talk at <a href="https://itu.dk/~palt/arcoatitu25.html">ARCO</a>. Find the slides here: <a href="docs/papers/presentations/ARCO-2025-MST-Final.pdf"> (password: privateTrees).
 * **[30 Mai 2025]** Our joint work with Rasmus, Boel and Joel about **Private Multiple Releases** was accepted to **ICML 2025**!
 * **[30 Mai 2025]** Three of our recent results got accepted to TPDP 2025 and one of them was selected for an oral presentation! See you in California!
 * **[2nd April 2025]** The joined work with Christian on the **Correlated Gaussian Sparse Histogram Mechanism** was accepted to **FORC 2025** and our **PODS** results selected as a **highlight** for oral presentation!

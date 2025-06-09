@@ -46,7 +46,7 @@ widget:
     attachment: 
 ---
 
-I am a second-year *PhD* student at <a href="https://www.rasmuspagh.net/providentia/">Providentia</a> at <a href="https://barc.ku.dk/">BARC</a> at the *University of Copenhagen* under the supervision of <a href="https://rasmuspagh.net/">*Rasmus Pagh*</a>.
+I am a third-year *PhD* student at <a href="https://www.rasmuspagh.net/providentia/">Providentia</a> at <a href="https://barc.ku.dk/">BARC</a> at the *University of Copenhagen* under the supervision of <a href="https://rasmuspagh.net/">*Rasmus Pagh*</a>.
 My research area is that of <a href="https://dl.acm.org/doi/10.1007/11681878_14">Differential Privacy</a> currently working on private graph algorithms with applications to private synthetic data generation.
 
 Before that, I worked as a _PLM consultant_ for _Atos_ in my vibrant home city, Munich.
@@ -95,8 +95,8 @@ In my spare time, you can find me playing (beach) volleyball or sitting in front
 </div>
 
 <div>
-   <div class="" style="font-weight:800"><span class="year">[2] Private Multiple Release</div>
-  <span style="margin-left:10px" class="author">Joel Daniel Andersson, Boel Nelson, Rasmus Pagh, Lukas Retschmeier</span>
+   <div class="" style="font-weight:800"><span class="year">[2] Private Lossless  Multiple Release</div>
+  <span style="margin-left:10px" class="author">Joel Daniel Andersson, Lukas Retschmeier, Boel Nelson, Rasmus Pagh</span>
   <div style="margin-left:10px;margin-top:0px;font-style:italic">
     <span class="title">International Conference in Machine Learning (ICML), 2025</span>
   </div>

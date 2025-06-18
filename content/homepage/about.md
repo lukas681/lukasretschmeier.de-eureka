@@ -110,3 +110,12 @@ In my spare time, you can find me playing (beach) volleyball or sitting in front
     <span class="" style="margin-left:5px"><a class="url" style="font-size:10px" href="https://arxiv.org/abs/2408.06997">(arXiv)</a></span>
   </div>
 </div>
+
+<div>
+   <div class="" style="font-weight:800"><span class="year">[Master Thesis] On the Comlexity of Semitotal Domination on Graph Problems</div>
+  <span style="margin-left:10px" class="author">Lukas Retschmeier // Supervisor: Prof. Paloma T. Lima</span>
+  <div style="margin-left:10px;margin-top:0px;font-style:italic">
+    <span class="" style="margin-left:5px"><a class="url" style="font-size:10px" href="doc/smt.pdf">(pdf)</a></span>
+    <span class="" style="margin-left:5px"><a class="url" style="font-size:10px" href="doc/presentation-mt.pdf">(slides)</a></span>
+  </div>
+</div>

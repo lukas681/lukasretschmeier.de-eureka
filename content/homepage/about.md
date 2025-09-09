@@ -69,6 +69,15 @@ In my spare time, you can find me playing (beach) volleyball or sitting in front
 ### Research
 
 <div>
+   <div class="" style="font-weight:800"><span class="year">[6] Revisiting a Successful Reduction Rule for Dominating Set</div>
+  <span style="margin-left:10px" class="author">Lukas Geis, Alexander Leonhardt, Johannes Meintrup, Ulrich Meyer, Manuel Penschuck, Lukas Retschmeier</span>
+  <div style="margin-left:10px;margin-top:0px;font-style:italic">
+    <span class="title"> SIAM Symposium on Algorithm Engineering and Experiments (ALENEX 2026), 2025</span>
+  </div>
+</div>
+
+
+<div>
    <div class="" style="font-weight:800"><span class="year">[5] The Correlated Gaussian Sparse Histogram Mechanism</div>
   <span style="margin-left:10px" class="author">Christian Lebeda, Lukas Retschmeier</span>
   <div style="margin-left:10px;margin-top:0px;font-style:italic">

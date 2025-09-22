@@ -48,6 +48,7 @@ widget:
 
 I am a third-year *PhD* student at <a href="https://www.rasmuspagh.net/providentia/">Providentia</a> at <a href="https://barc.ku.dk/">BARC</a> at the *University of Copenhagen* under the supervision of <a href="https://rasmuspagh.net/">*Rasmus Pagh*</a>.
 My research area is that of <a href="https://dl.acm.org/doi/10.1007/11681878_14">Differential Privacy</a> currently working on private graph algorithms with applications to private synthetic data generation.
+Currently, in the fall semester of 2025, I am having the privilege of visiting Sofya Raskhodnikova at Boston University.
 
 Before that, I worked as a _PLM consultant_ for _Atos_ in my vibrant home city, Munich.
 I am proficient with various technologies and tools, including **Java** with the *Spring Framework*, **AngularJS**, **Siemens Teamcenter**, and **Docker**.
@@ -59,8 +60,9 @@ In my spare time, you can find me playing (beach) volleyball or sitting in front
 
 ### News
 
+* **[22 Sep 2025]** Our joint work with Lukas, Alexander, Johannes, Ulrich, and Manuel got accepted to ALENEX 2026! In the paper we consider the very practical problem of reducing instances of dominating set efficiently.
 * **[15 Mai 2025]** I will be giving a talk at <a href="https://itu.dk/~palt/arcoatitu25.html">ARCO</a>. Find the slides <a href="docs/papers/presentations/ARCO-2025-MST-Final.pdf">here</a> (privateTrees).
-* **[30 April 2025]** Our joint work with Rasmus, Boel and Joel about **Private Multiple Releases** was accepted to **ICML 2025**!
+* **[30 April 2025]** Our joint work with Rasmus, Boel and Joel about **Private Lossless Multiple Releases** was accepted to **ICML 2025**!
 * **[30 April 2025]** Three of our recent results got accepted to TPDP 2025 and one of them was selected for an oral presentation! See you in California!
 * **[2nd April 2025]** The joined work with Christian on the **Correlated Gaussian Sparse Histogram Mechanism** was accepted to **FORC 2025** and our **PODS** results selected as a **highlight** for oral presentation!
 * **[14th Jan 2025]** Our work that strengthens our own previous results on <a href="https://arxiv.org/abs/2412.10130">private Minimum Spanning Trees</a> in a joint work with Rasmus, Hao and Hanwen got accepted to **PODS 2025**!
@@ -72,10 +74,9 @@ In my spare time, you can find me playing (beach) volleyball or sitting in front
    <div class="" style="font-weight:800"><span class="year">[6] Revisiting a Successful Reduction Rule for Dominating Set</div>
   <span style="margin-left:10px" class="author">Lukas Geis, Alexander Leonhardt, Johannes Meintrup, Ulrich Meyer, Manuel Penschuck, Lukas Retschmeier</span>
   <div style="margin-left:10px;margin-top:0px;font-style:italic">
-    <span class="title"> SIAM Symposium on Algorithm Engineering and Experiments (ALENEX 2026), 2025</span>
+    <span class="title"> SIAM Symposium on Algorithm Engineering and Experiments (ALENEX), 2026</span>
   </div>
 </div>
-
 
 <div>
    <div class="" style="font-weight:800"><span class="year">[5] The Correlated Gaussian Sparse Histogram Mechanism</div>

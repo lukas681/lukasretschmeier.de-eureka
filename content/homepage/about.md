@@ -60,7 +60,7 @@ In my spare time, you can find me playing (beach) volleyball or sitting in front
 
 ### News
 
-* **[22 Sep 2025]** Our joint work with Lukas, Alexander, Johannes, Ulrich, and Manuel got accepted to ALENEX 2026! In the paper we consider the very practical problem of reducing instances of dominating set efficiently.
+* **[22 Sep 2025]** Our joint work with Lukas, Alexander, Johannes, Ulrich, and Manuel got accepted to **ALENEX 2026**! In the paper we consider the very practical problem of reducing instances of dominating set efficiently.
 * **[15 Mai 2025]** I will be giving a talk at <a href="https://itu.dk/~palt/arcoatitu25.html">ARCO</a>. Find the slides <a href="docs/papers/presentations/ARCO-2025-MST-Final.pdf">here</a> (privateTrees).
 * **[30 April 2025]** Our joint work with Rasmus, Boel and Joel about **Private Lossless Multiple Releases** was accepted to **ICML 2025**!
 * **[30 April 2025]** Three of our recent results got accepted to TPDP 2025 and one of them was selected for an oral presentation! See you in California!

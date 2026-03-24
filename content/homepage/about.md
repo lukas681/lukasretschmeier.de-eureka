@@ -46,16 +46,15 @@ widget:
     attachment: 
 ---
 
-I am a third-year *PhD* student at <a href="https://www.rasmuspagh.net/providentia/">Providentia</a> at <a href="https://barc.ku.dk/">BARC</a> at the *University of Copenhagen* under the supervision of <a href="https://rasmuspagh.net/">*Rasmus Pagh*</a> and co-supervised by <a href="https://itu.dk/~maau/">*Martin Aumüller*</a>.
-I am broadly interested in <a href="https://dl.acm.org/doi/10.1007/11681878_14">Differential Privacy</a> with a recent focus on private graph algorithms.
-Currently, I am having the privilege of visiting <a href="https://cs-people.bu.edu/sofya/">Sofya Raskhodnikova</a> at Boston University.
+I am a *PhD* candidate at <a href="https://www.rasmuspagh.net/providentia/">Providentia</a> at <a href="https://barc.ku.dk/">BARC</a> at the *University of Copenhagen* under the supervision of <a href="https://rasmuspagh.net/">*Rasmus Pagh*</a> and <a href="https://itu.dk/~maau/">*Martin Aumüller*</a>.
+I am broadly interested in <a href="https://dl.acm.org/doi/10.1007/11681878_14">Differential Privacy</a> with a focus on private graph algorithms.
 
-Before that, I worked as a _PLM consultant_ for _Atos_ in my vibrant home city, Munich, mainly for the autmotive industry.
-I am proficient with various technologies and tools, including **Java** with the *Spring Framework*, **AngularJS**, **Siemens Teamcenter**, and **Docker**.
-**For a detailed overview of my projects, take a look at my <a href="docs/main.pdf">CV</a>**.
+Previously, I worked as a PLM consultant at Atos, where I devveloped strong expertise delivering software solutions and advising clients in complex technical environments.
+<!--I am proficient with various technologies and tools, including **Java** with the *Spring Framework*, **AngularJS**, **Siemens Teamcenter**, and **Docker**.-->
+For a detailed overview of these projects, take a look at my **<a href="docs/main.pdf">CV</a>**.
 <!--I am a strong advocate of <a href="https://agilemanifesto.org/">agile</a> methodologies like <a href="https://www.scrum.org/resources/what-scrum-module">Scrum</a>.-->
 
-In my spare time, you can find me playing (beach) volleyball or sitting in front of my piano playing <a href="https://www.youtube.com/watch?v=Wqx7eFpJ1co">sonatas</a>.
+Outside work, I enjoy playing classical <a href="https://www.youtube.com/watch?v=Wqx7eFpJ1co">music</a>, winter bathing, and playing volleyball.
 
 ### News
 

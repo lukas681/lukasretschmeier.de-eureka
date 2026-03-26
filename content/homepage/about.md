@@ -46,10 +46,10 @@ widget:
     attachment: 
 ---
 
-I am a *PhD* candidate at <a href="https://www.rasmuspagh.net/providentia/">Providentia</a> at <a href="https://barc.ku.dk/">BARC</a> at the *University of Copenhagen* under the supervision of <a href="https://rasmuspagh.net/">*Rasmus Pagh*</a> and <a href="https://itu.dk/~maau/">*Martin Aumüller*</a>.
+I am a PhD candidate at <a href="https://www.rasmuspagh.net/providentia/">Providentia</a> at <a href="https://barc.ku.dk/">BARC</a> at the *University of Copenhagen* under the supervision of <a href="https://rasmuspagh.net/">*Rasmus Pagh*</a> and <a href="https://itu.dk/~maau/">*Martin Aumüller*</a>.
 I am broadly interested in <a href="https://dl.acm.org/doi/10.1007/11681878_14">Differential Privacy</a> with a focus on private graph algorithms.
 
-Previously, I worked as a PLM consultant at Atos, where I devveloped strong expertise delivering software solutions and advising clients in complex technical environments.
+Previously, I worked as a PLM consultant at Atos, where I gained strong expertise in software development and advising clients in complex technical environments.
 For a detailed overview of these projects, take a look at my **<a href="docs/main.pdf">CV</a>**.
 <!--I am a strong advocate of <a href="https://agilemanifesto.org/">agile</a> methodologies like <a href="https://www.scrum.org/resources/what-scrum-module">Scrum</a>.-->
 

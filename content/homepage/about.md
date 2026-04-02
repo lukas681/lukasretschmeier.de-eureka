@@ -57,18 +57,28 @@ Outside work, I enjoy playing classical <a href="https://www.youtube.com/watch?v
 
 ### News
 
+* **[02 April 2026]** Our WIP on Private Hierarchical Clustering was accepted to TPDP! 
 * **[22 Sep 2025]** Our joint work with Lukas, Alexander, Johannes, Ulrich, and Manuel got accepted to **ALENEX 2026**! In the paper we consider the very practical problem of reducing instances of dominating set efficiently.
 * **[15 Mai 2025]** I will be giving a talk at <a href="https://itu.dk/~palt/arcoatitu25.html">ARCO</a>. Find the slides <a href="docs/papers/presentations/ARCO-2025-MST-Final.pdf">here</a> (privateTrees).
 * **[30 April 2025]** Our joint work with Rasmus, Boel and Joel about **Private Lossless Multiple Releases** was accepted to **ICML 2025**!
 * **[30 April 2025]** Three of our recent results got accepted to TPDP 2025 and one of them was selected for an oral presentation! See you in California!
-* **[2nd April 2025]** The joined work with Christian on the **Correlated Gaussian Sparse Histogram Mechanism** was accepted to **FORC 2025** and our **PODS** results selected as a **highlight** for oral presentation!
-* **[14th Jan 2025]** Our work that strengthens our own previous results on <a href="https://arxiv.org/abs/2412.10130">private Minimum Spanning Trees</a> in a joint work with Rasmus, Hao and Hanwen got accepted to **PODS 2025**!
-* **[16th Dec 2024]** New preprint on improving the <a href="https://arxiv.org/abs/2412.10357">Gaussian Sparse Histogram Mechanism</a> together with Christian!
+* **[02 April 2025]** The joined work with Christian on the **Correlated Gaussian Sparse Histogram Mechanism** was accepted to **FORC 2025** and our **PODS** results selected as a **highlight** for oral presentation!
+* **[14 Jan 2025]** Our work that strengthens our own previous results on <a href="https://arxiv.org/abs/2412.10130">private Minimum Spanning Trees</a> in a joint work with Rasmus, Hao and Hanwen got accepted to **PODS 2025**!
+* **[16 Dec 2024]** New preprint on improving the <a href="https://arxiv.org/abs/2412.10357">Gaussian Sparse Histogram Mechanism</a> together with Christian!
 
 ### Research
 
 <div>
-   <div class="" style="font-weight:800"><span class="year">[6] Revisiting a Successful Reduction Rule for Dominating Set</div>
+   <div class="" style="font-weight:800"><span class="year">[8] Lower Bounds for Private Hierarchical Clustering via Reconstruction Attacks</div>
+  <span style="margin-left:10px" class="author">Jacob Imola, Lukas Retschmeier</span>
+  <div style="margin-left:10px;margin-top:0px;font-style:italic">
+    <span class="title">TPDP 2026, under submission</span>
+  </div>
+</div>
+
+
+<div>
+   <div class="" style="font-weight:800"><span class="year">[7] Revisiting a Successful Reduction Rule for Dominating Set</div>
   <span style="margin-left:10px" class="author">Lukas Geis, Alexander Leonhardt, Johannes Meintrup, Ulrich Meyer, Manuel Penschuck, Lukas Retschmeier</span>
   <div style="margin-left:10px;margin-top:0px;font-style:italic">
     <span class="title"> SIAM Symposium on Algorithm Engineering and Experiments (ALENEX), 2026</span>
@@ -76,7 +86,7 @@ Outside work, I enjoy playing classical <a href="https://www.youtube.com/watch?v
 </div>
 
 <div>
-   <div class="" style="font-weight:800"><span class="year">[5] The Correlated Gaussian Sparse Histogram Mechanism</div>
+   <div class="" style="font-weight:800"><span class="year">[6] The Correlated Gaussian Sparse Histogram Mechanism</div>
   <span style="margin-left:10px" class="author">Christian Lebeda, Lukas Retschmeier</span>
   <div style="margin-left:10px;margin-top:0px;font-style:italic">
     <span class="title"> Foundations of Responsible Computing (FORC), 2025</span>
@@ -85,11 +95,19 @@ Outside work, I enjoy playing classical <a href="https://www.youtube.com/watch?v
 </div>
 
 <div>
-   <div class="" style="font-weight:800"><span class="year">[4] Optimal Bounds for Private Minimum Spanning Trees via Input Perturbation</div>
+   <div class="" style="font-weight:800"><span class="year">[5] Optimal Bounds for Private Minimum Spanning Trees via Input Perturbation</div>
   <span style="margin-left:10px" class="author">Rasmus Pagh, Lukas Retschmeier, Hao Wu, Hanwen Zhang </span>
   <div style="margin-left:10px;margin-top:0px;font-style:italic">
     <span class="title">The Principles of Database System (PODS), 2025</span>
     <span class="" style="margin-left:5px"><a class="url" style="font-size:10px" href="https://arxiv.org/abs/2412.10130">(arXiv)</a></span>
+  </div>
+</div>
+
+<div>
+   <div class="" style="font-weight:800"><span class="year">[4] Private Lossless  Multiple Release</div>
+  <span style="margin-left:10px" class="author">Joel Daniel Andersson, Lukas Retschmeier, Boel Nelson, Rasmus Pagh</span>
+  <div style="margin-left:10px;margin-top:0px;font-style:italic">
+    <span class="title">International Conference in Machine Learning (ICML), 2025</span>
   </div>
 </div>
 
@@ -101,16 +119,10 @@ Outside work, I enjoy playing classical <a href="https://www.youtube.com/watch?v
   </div>
 </div>
 
-<div>
-   <div class="" style="font-weight:800"><span class="year">[2] Private Lossless  Multiple Release</div>
-  <span style="margin-left:10px" class="author">Joel Daniel Andersson, Lukas Retschmeier, Boel Nelson, Rasmus Pagh</span>
-  <div style="margin-left:10px;margin-top:0px;font-style:italic">
-    <span class="title">International Conference in Machine Learning (ICML), 2025</span>
-  </div>
-</div>
+
 
 <div>
-   <div class="" style="font-weight:800"><span class="year">[1] Faster Private Minimium Spanning Trees</div>
+   <div class="" style="font-weight:800"><span class="year">[2] Faster Private Minimium Spanning Trees</div>
   <span style="margin-left:10px" class="author">Rasmus Pagh, Lukas Retschmeier</span>
   <div style="margin-left:10px;margin-top:0px;font-style:italic">
     <span class="title">Presented at TPDP 2024, Superseded by [4], 2024</span>
@@ -119,10 +131,10 @@ Outside work, I enjoy playing classical <a href="https://www.youtube.com/watch?v
 </div>
 
 <div>
-   <div class="" style="font-weight:800"><span class="year">On the Comlexity of Semitotal Domination on Graph Problems</div>
-  <span style="margin-left:10px" class="author">Lukas Retschmeier</span>
+   <div class="" style="font-weight:800"><span class="year">[1] A Linear Kernel for Semitotal Dominting Set</div>
+  <span style="margin-left:10px" class="author">Paloma T. Lima, Lukas Retschmeier</span>
   <div style="margin-left:10px;margin-top:0px;font-style:italic">
-    <span class="title">Master Thesis, Supervisor: Prof. Paloma T. Lima</span>
+    <span class="title">Under submission</span>
     <span class="" style="margin-left:5px"><a class="url" style="font-size:10px" href="docs/papers/mt.pdf">(pdf)</a></span>
     <span class="" style="margin-left:5px"><a class="url" style="font-size:10px" href="docs/papers/presentation-mt.pdf">(slides)</a></span>
   </div>

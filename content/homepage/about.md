@@ -57,7 +57,8 @@ Outside work, I enjoy playing classical <a href="https://www.youtube.com/watch?v
 
 ### News
 
-* **[02 April 2026]** Our WIP on Private Hierarchical Clustering was accepted to TPDP! 
+* **[02 April 2026]** Some work was accepted to TPDP 26!
+* **[12 Nov  2025]** I gave a talk at Boston University during my stay abroad about our MST result from PODS. 
 * **[22 Sep 2025]** Our joint work with Lukas, Alexander, Johannes, Ulrich, and Manuel got accepted to **ALENEX 2026**! In the paper we consider the very practical problem of reducing instances of dominating set efficiently.
 * **[15 Mai 2025]** I will be giving a talk at <a href="https://itu.dk/~palt/arcoatitu25.html">ARCO</a>. Find the slides <a href="docs/papers/presentations/ARCO-2025-MST-Final.pdf">here</a> (privateTrees).
 * **[30 April 2025]** Our joint work with Rasmus, Boel and Joel about **Private Lossless Multiple Releases** was accepted to **ICML 2025**!
@@ -68,20 +69,13 @@ Outside work, I enjoy playing classical <a href="https://www.youtube.com/watch?v
 
 ### Research
 
-<div>
-   <div class="" style="font-weight:800"><span class="year">[8] Lower Bounds for Private Hierarchical Clustering via Reconstruction Attacks</div>
-  <span style="margin-left:10px" class="author">Jacob Imola, Lukas Retschmeier</span>
-  <div style="margin-left:10px;margin-top:0px;font-style:italic">
-    <span class="title">TPDP 2026, under submission</span>
-  </div>
-</div>
-
+#### Differential Privacy
 
 <div>
-   <div class="" style="font-weight:800"><span class="year">[7] Revisiting a Successful Reduction Rule for Dominating Set</div>
-  <span style="margin-left:10px" class="author">Lukas Geis, Alexander Leonhardt, Johannes Meintrup, Ulrich Meyer, Manuel Penschuck, Lukas Retschmeier</span>
+   <div class="" style="font-weight:800"><span class="year">[7] Lower Bounds for Private Graph Optimization using Reconstruction-Attacks</div>
+  <span style="margin-left:10px" class="author">Jacob Imola, Rasmus Pagh, Lukas Retschmeier</span>
   <div style="margin-left:10px;margin-top:0px;font-style:italic">
-    <span class="title"> SIAM Symposium on Algorithm Engineering and Experiments (ALENEX), 2026</span>
+    <span class="title">under submission, partial content appeared in TPDP 25 + 26</span>
   </div>
 </div>
 
@@ -90,7 +84,7 @@ Outside work, I enjoy playing classical <a href="https://www.youtube.com/watch?v
   <span style="margin-left:10px" class="author">Christian Lebeda, Lukas Retschmeier</span>
   <div style="margin-left:10px;margin-top:0px;font-style:italic">
     <span class="title"> Foundations of Responsible Computing (FORC), 2025</span>
-    <span class="" style="margin-left:5px"><a class="url" style="font-size:10px" href="https://arxiv.org/abs/2412.10357">(arXiv)</a></span>
+    <span class="" style="margin-left:5px"><a class="url" style="font-size:10px" href="https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FORC.2025.23">(publication)</a></span>
   </div>
 </div>
 
@@ -99,7 +93,7 @@ Outside work, I enjoy playing classical <a href="https://www.youtube.com/watch?v
   <span style="margin-left:10px" class="author">Rasmus Pagh, Lukas Retschmeier, Hao Wu, Hanwen Zhang </span>
   <div style="margin-left:10px;margin-top:0px;font-style:italic">
     <span class="title">The Principles of Database System (PODS), 2025</span>
-    <span class="" style="margin-left:5px"><a class="url" style="font-size:10px" href="https://arxiv.org/abs/2412.10130">(arXiv)</a></span>
+    <span class="" style="margin-left:5px"><a class="url" style="font-size:10px" href="https://dl.acm.org/doi/epdf/10.1145/3725240">(publication)</a></span>
   </div>
 </div>
 
@@ -108,33 +102,44 @@ Outside work, I enjoy playing classical <a href="https://www.youtube.com/watch?v
   <span style="margin-left:10px" class="author">Joel Daniel Andersson, Lukas Retschmeier, Boel Nelson, Rasmus Pagh</span>
   <div style="margin-left:10px;margin-top:0px;font-style:italic">
     <span class="title">International Conference in Machine Learning (ICML), 2025</span>
+    <span class="" style="margin-left:5px"><a class="url" style="font-size:10px" href="https://proceedings.mlr.press/v267/andersson25a.html">(publication)</a></span>
   </div>
 </div>
 
+<div>
+   <div class="" style="font-weight:800"><span class="year">[3] Faster Private Minimium Spanning Trees</div>
+  <span style="margin-left:10px" class="author">Rasmus Pagh, Lukas Retschmeier</span>
+  <div style="margin-left:10px;margin-top:0px;font-style:italic">
+    <span class="title">Presented at TPDP 2024, strictly stronger results in [5], 2024</span>
+    <span class="" style="margin-left:5px"><a class="url" style="font-size:10px" href="https://arxiv.org/abs/2408.06997">(arXiv)</a></span>
+  </div>
+</div>
+
+<!-- 
 <div>
    <div class="" style="font-weight:800"><span class="year">[3] New Bounds for Private Graph Problems Using Input Perturbation</div>
   <span style="margin-left:10px" class="author">Anders Aamand, Rasmus Pagh, Lukas Retschmeier</span>
   <div style="margin-left:10px;margin-top:0px;font-style:italic">
     <span class="title">TPDP 2025, under preperation</span>
   </div>
-</div>
+</div> -->
 
-
+#### Parameterized Complexity
 
 <div>
-   <div class="" style="font-weight:800"><span class="year">[2] Faster Private Minimium Spanning Trees</div>
-  <span style="margin-left:10px" class="author">Rasmus Pagh, Lukas Retschmeier</span>
+   <div class="" style="font-weight:800"><span class="year">[2] Revisiting a Successful Reduction Rule for Dominating Set</div>
+  <span style="margin-left:10px" class="author">Lukas Geis, Alexander Leonhardt, Johannes Meintrup, Ulrich Meyer, Manuel Penschuck, Lukas Retschmeier</span>
   <div style="margin-left:10px;margin-top:0px;font-style:italic">
-    <span class="title">Presented at TPDP 2024, Superseded by [4], 2024</span>
-    <span class="" style="margin-left:5px"><a class="url" style="font-size:10px" href="https://arxiv.org/abs/2408.06997">(arXiv)</a></span>
+    <span class="title"> SIAM Symposium on Algorithm Engineering and Experiments (ALENEX), 2026</span>
   </div>
 </div>
+
 
 <div>
    <div class="" style="font-weight:800"><span class="year">[1] A Linear Kernel for Semitotal Dominting Set</div>
   <span style="margin-left:10px" class="author">Paloma T. Lima, Lukas Retschmeier</span>
   <div style="margin-left:10px;margin-top:0px;font-style:italic">
-    <span class="title">Under submission</span>
+    <span class="title">Under submission, Master Thesis</span>
     <span class="" style="margin-left:5px"><a class="url" style="font-size:10px" href="docs/papers/mt.pdf">(pdf)</a></span>
     <span class="" style="margin-left:5px"><a class="url" style="font-size:10px" href="docs/papers/presentation-mt.pdf">(slides)</a></span>
   </div>

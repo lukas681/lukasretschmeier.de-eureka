@@ -61,11 +61,17 @@ Outside work, I enjoy playing classical <a href="https://www.youtube.com/watch?v
 * **[12 Nov  2025]** I gave a talk at Boston University during my stay abroad about our MST result from PODS. 
 * **[22 Sep 2025]** Our joint work with Lukas, Alexander, Johannes, Ulrich, and Manuel got accepted to **ALENEX 2026**! In the paper we consider the very practical problem of reducing instances of dominating set efficiently.
 * **[15 Mai 2025]** I will be giving a talk at <a href="https://itu.dk/~palt/arcoatitu25.html">ARCO</a>. Find the slides <a href="docs/papers/presentations/ARCO-2025-MST-Final.pdf">here</a> (privateTrees).
+
+<details>
+<summary>Show older news</summary>
+
 * **[30 April 2025]** Our joint work with Rasmus, Boel and Joel about **Private Lossless Multiple Releases** was accepted to **ICML 2025**!
 * **[30 April 2025]** Three of our recent results got accepted to TPDP 2025 and one of them was selected for an oral presentation! See you in California!
 * **[02 April 2025]** The joined work with Christian on the **Correlated Gaussian Sparse Histogram Mechanism** was accepted to **FORC 2025** and our **PODS** results selected as a **highlight** for oral presentation!
 * **[14 Jan 2025]** Our work that strengthens our own previous results on <a href="https://arxiv.org/abs/2412.10130">private Minimum Spanning Trees</a> in a joint work with Rasmus, Hao and Hanwen got accepted to **PODS 2025**!
 * **[16 Dec 2024]** New preprint on improving the <a href="https://arxiv.org/abs/2412.10357">Gaussian Sparse Histogram Mechanism</a> together with Christian!
+
+</details>
 
 ### Research
 
@@ -75,7 +81,7 @@ Outside work, I enjoy playing classical <a href="https://www.youtube.com/watch?v
    <div class="" style="font-weight:800"><span class="year">[7] Lower Bounds for Private Graph Optimization using Reconstruction-Attacks</div>
   <span style="margin-left:10px" class="author">Jacob Imola, Rasmus Pagh, Lukas Retschmeier</span>
   <div style="margin-left:10px;margin-top:0px;font-style:italic">
-    <span class="title">under submission, partial content appeared in TPDP 25 + 26</span>
+    <span class="title">under submission, partial content appeared in TPDP 25 + 26, preprint coming soon!</span>
   </div>
 </div>
 

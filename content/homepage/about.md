@@ -63,7 +63,7 @@ Outside work, I enjoy playing classical <a href="https://www.youtube.com/watch?v
 * **[15 Mai 2025]** I will be giving a talk at <a href="https://itu.dk/~palt/arcoatitu25.html">ARCO</a>. Find the slides <a href="docs/papers/presentations/ARCO-2025-MST-Final.pdf">here</a> (privateTrees).
 
 <details>
-<summary>Show older news</summary>
+<summary>Show older news.</summary>
 
 * **[30 April 2025]** Our joint work with Rasmus, Boel and Joel about **Private Lossless Multiple Releases** was accepted to **ICML 2025**!
 * **[30 April 2025]** Three of our recent results got accepted to TPDP 2025 and one of them was selected for an oral presentation! See you in California!

@@ -11,3 +11,6 @@ require (
 )
 
 replace wangchucheng.com/hugo-eureka => ./themes/wangchucheng.com/hugo-eureka
+
+replace wangchucheng.com/hugo-marble/search => ./.netlify-hugo-deps/search-src/search
+replace wangchucheng.com/hugo-marble/utils => ./.netlify-hugo-deps/utils-src/utils

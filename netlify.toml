@@ -1,5 +1,5 @@
 [build]
-  command = "hugo --gc --minify"
+  command = "rm -rf .netlify-hugo-deps && mkdir -p .netlify-hugo-deps && git clone --depth 1 --branch search/v0.1.0 https://github.com/wangchucheng/hugo-marble.git .netlify-hugo-deps/search-src && git clone --depth 1 --branch utils/v0.1.0-alpha.1 https://github.com/wangchucheng/hugo-marble.git .netlify-hugo-deps/utils-src && hugo --gc --minify"
   publish = "public"
 
 [build.environment]

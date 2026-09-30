@@ -46,11 +46,11 @@ widget:
     attachment: 
 ---
 
-I just finished my PhD in the <a href="https://www.rasmuspagh.net/providentia/">Providentia</a> group at <a href="https://barc.ku.dk/">BARC</a> at the *University of Copenhagen* under the supervision of <a href="https://rasmuspagh.net/">*Rasmus Pagh*</a> and <a href="https://itu.dk/~maau/">*Martin Aumüller*</a>.
-I am broadly interested in <a href="https://dl.acm.org/doi/10.1007/11681878_14">Differential Privacy</a> with a focus on private graph algorithms.
+I just finished my PhD in Algorithms under the supervision of <a href="https://rasmuspagh.net/">*Rasmus Pagh*</a>.
+I am mainly interested in <a href="https://dl.acm.org/doi/10.1007/11681878_14">Differential Privacy</a> with a focus on private graph algorithms.
 You can find my thesis here: <a href="phd-thesis.pdf">CV</a>.
 
-Previously, I worked as a PLM consultant at Atos, where I gained strong expertise in software development and advising clients in complex technical environments.
+Previously, I worked as a PLM consultant at Atos, where I was responsible for full stack software development and consulting clients navigating through complex technical environments.
 For a detailed overview of these projects, take a look at my **<a href="docs/main.pdf">CV</a>**.
 <!--I am a strong advocate of <a href="https://agilemanifesto.org/">agile</a> methodologies like <a href="https://www.scrum.org/resources/what-scrum-module">Scrum</a>.-->
 
@@ -58,12 +58,11 @@ Outside work, I enjoy playing classical <a href="https://www.youtube.com/watch?v
 
 ### News
 
-* **[28 Sep 2026]** I successfully defended my PhD thesis
+* **[28 Sep 2026]** I successfully defended my PhD thesis!
 * **[01 Sep 2026]** We get a paper about lower bounds for private graph problems accepted to PODS 2027!
-* **[02 April 2026]** Some work was accepted to TPDP 26!
-
 <details>
 <summary>Show older news.</summary>
+* **[02 April 2026]** Some work was accepted to TPDP 26!
 * **[12 Nov  2025]** I gave a talk at Boston University during my stay abroad about our MST result from PODS. 
 * **[22 Sep 2025]** Our joint work with Lukas, Alexander, Johannes, Ulrich, and Manuel got accepted to **ALENEX 2026**! In the paper we consider the very practical problem of reducing instances of dominating set efficiently.
 * **[15 Mai 2025]** I will be giving a talk at <a href="https://itu.dk/~palt/arcoatitu25.html">ARCO</a>. Find the slides <a href="docs/papers/presentations/ARCO-2025-MST-Final.pdf">here</a> (privateTrees).

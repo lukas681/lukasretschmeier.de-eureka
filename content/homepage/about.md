@@ -48,7 +48,7 @@ widget:
 
 I just finished my PhD in Algorithms under the supervision of <a href="https://rasmuspagh.net/">*Rasmus Pagh*</a>.
 I am mainly interested in <a href="https://dl.acm.org/doi/10.1007/11681878_14">Differential Privacy</a> with a focus on private graph algorithms.
-You can find my thesis here: <a href="phd-thesis.pdf">CV</a>.
+You can find my thesis here: <a href="phd-thesis.pdf">PhD Thesis</a>.
 
 Previously, I worked as a PLM consultant at Atos, where I was responsible for full stack software development and consulting clients navigating through complex technical environments.
 For a detailed overview of these projects, take a look at my **<a href="docs/main.pdf">CV</a>**.

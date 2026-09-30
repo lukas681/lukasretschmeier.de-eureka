@@ -1,7 +1,7 @@
 ---
 title: Lukas Retschmeier
 draft: false
-role: PhD Student in Computer Science
+role: PhD in Computer Science
 avatar: /images/avatar.png
 bio: Hej! Welcome to my little private corner of the internet! 
 organization:
@@ -46,8 +46,9 @@ widget:
     attachment: 
 ---
 
-I am a PhD candidate at <a href="https://www.rasmuspagh.net/providentia/">Providentia</a> at <a href="https://barc.ku.dk/">BARC</a> at the *University of Copenhagen* under the supervision of <a href="https://rasmuspagh.net/">*Rasmus Pagh*</a> and <a href="https://itu.dk/~maau/">*Martin Aumüller*</a>.
+I just finished my PhD in the <a href="https://www.rasmuspagh.net/providentia/">Providentia</a> group at <a href="https://barc.ku.dk/">BARC</a> at the *University of Copenhagen* under the supervision of <a href="https://rasmuspagh.net/">*Rasmus Pagh*</a> and <a href="https://itu.dk/~maau/">*Martin Aumüller*</a>.
 I am broadly interested in <a href="https://dl.acm.org/doi/10.1007/11681878_14">Differential Privacy</a> with a focus on private graph algorithms.
+You can find my thesis here: <a href="phd-thesis.pdf">CV</a>.
 
 Previously, I worked as a PLM consultant at Atos, where I gained strong expertise in software development and advising clients in complex technical environments.
 For a detailed overview of these projects, take a look at my **<a href="docs/main.pdf">CV</a>**.
@@ -57,7 +58,8 @@ Outside work, I enjoy playing classical <a href="https://www.youtube.com/watch?v
 
 ### News
 
-* **[01 Sep 2025]** We get a paper about lower bounds for private graph problems accepted to PODS 2027!
+* **[28 Sep 2026]** I successfully defended my PhD thesis
+* **[01 Sep 2026]** We get a paper about lower bounds for private graph problems accepted to PODS 2027!
 * **[02 April 2026]** Some work was accepted to TPDP 26!
 
 <details>

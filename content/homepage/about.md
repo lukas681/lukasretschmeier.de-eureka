@@ -58,6 +58,7 @@ Outside work, I enjoy playing classical <a href="https://www.youtube.com/watch?v
 
 ### News
 
+* **[1 Oct 2026]** A paper with Anders and Rasmus got accepted to SOSA 2027!
 * **[28 Sep 2026]** I successfully defended my PhD thesis!
 * **[01 Sep 2026]** We get a paper about lower bounds for private graph problems accepted to PODS 2027!
 <details>
@@ -77,6 +78,14 @@ Outside work, I enjoy playing classical <a href="https://www.youtube.com/watch?v
 
 #### Differential Privacy
 
+
+<div>
+   <div class="" style="font-weight:800"><span class="year">[8] Optimal Bounds for Differentially Private All Pairs Shortest Paths</div>
+  <span style="margin-left:10px" class="author">Anders Aamand, Rasmus Pagh, Lukas Retschmeier</span>
+  <div style="margin-left:10px;margin-top:0px;font-style:italic">
+    <span class="title">To apear in Symposium on Simplicity in Algorithms (SOSA), 2027</span>
+  </div>
+</div>
 <div>
    <div class="" style="font-weight:800"><span class="year">[7] Lower Bounds for Private Graph Optimization using Reconstruction-Attacks</div>
   <span style="margin-left:10px" class="author">Jacob Imola, Rasmus Pagh, Lukas Retschmeier</span>
